@@ -9,15 +9,15 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2018-02-27 03:19+0100\n"
-"PO-Revision-Date: 2016-06-29 16:12+0800\n"
-"Last-Translator: Jeff Huang <s8321414@gmail.com>\n"
+"PO-Revision-Date: 2018-03-29 14:08+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese <kde-i18n-doc@kde.org>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #: declarativeimports/calendar/eventdatadecorator.cpp:64
 #, kde-format
@@ -225,7 +225,7 @@ msgstr "登出對話框主題"
 #: plasma/packagestructure/plasmathemepackage.cpp:50
 #, kde-format
 msgid "Wallpaper packages"
-msgstr "桌布套件"
+msgstr "桌布包"
 
 #: plasma/packagestructure/plasmathemepackage.cpp:52
 #, kde-format
@@ -447,7 +447,7 @@ msgstr "%1 元件未定義使用哪個文稿引擎。"
 #, kde-format
 msgctxt "Package file, name of the widget"
 msgid "Could not open the %1 package required for the %2 widget."
-msgstr "無法開啟 %2 元件所需要的套件 %1。"
+msgstr "無法開啟 %2 元件所需要的套件包 %1。"
 
 #: plasma/private/applet_p.cpp:182
 #, kde-format
@@ -584,7 +584,7 @@ msgstr "載入 QML 檔發生錯誤： %1"
 #: plasmaquick/appletquickitem.cpp:606
 #, kde-format
 msgid "Error loading Applet: package inexistent. %1"
-msgstr "載入小程式發生錯誤：套件不存在。%1"
+msgstr "載入小程式發生錯誤：套件包不存在。%1"
 
 #: plasmaquick/configview.cpp:108
 #, kde-format
@@ -760,7 +760,7 @@ msgstr "抓取檔案型態..."
 #: scriptengines/qml/plasmoid/containmentinterface.cpp:650
 #, kde-format
 msgid "Plasma Package"
-msgstr "Plasma 套件"
+msgstr "Plasma 套件包"
 
 #: scriptengines/qml/plasmoid/containmentinterface.cpp:648
 #: scriptengines/qml/plasmoid/containmentinterface.cpp:654
@@ -771,12 +771,12 @@ msgstr "安裝"
 #: scriptengines/qml/plasmoid/containmentinterface.cpp:668
 #, kde-format
 msgid "Package Installation Failed"
-msgstr "套件安裝失敗"
+msgstr "套件包安裝失敗"
 
 #: scriptengines/qml/plasmoid/containmentinterface.cpp:688
 #, kde-format
 msgid "The package you just dropped is invalid."
-msgstr "您放入的套件無效。"
+msgstr "您放入的套件包無效。"
 
 #: scriptengines/qml/plasmoid/containmentinterface.cpp:698
 #: scriptengines/qml/plasmoid/containmentinterface.cpp:700

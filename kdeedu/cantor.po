@@ -7,15 +7,15 @@ msgstr ""
 "Project-Id-Version: mathematik\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2018-03-28 03:28+0200\n"
-"PO-Revision-Date: 2017-11-11 20:33+0800\n"
-"Last-Translator: Franklin Weng <franklin@goodhorse.idv.tw>\n"
+"PO-Revision-Date: 2018-03-29 12:59+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@linux.org.tw>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -1750,7 +1750,7 @@ msgid ""
 "common Python-based interface."
 msgstr ""
 "Sage 是一個 GPL 授權，自由、開放源碼的數學軟體系統。<br/>它結合了許多現有的開"
-"放源碼套件的力量，並提供一個 Python 的介面。"
+"放源碼軟體的力量，並提供一個 Python 的介面。"
 
 #. i18n: ectx: label, entry (Path), group (SageBackend)
 #: backends/sage/sagebackend.kcfg:10
@@ -1896,7 +1896,7 @@ msgid_plural ""
 msgstr[0] ""
 "<h1>找不到後端介面</h1>\n"
 "<div>您可以嘗試：\n"
-"<ul><li>變更設定對話框中的設定；</li> <li>安裝以下程式套件之一：</li>%2</"
+"<ul><li>變更設定對話框中的設定；</li> <li>安裝以下程式軟體包之一：</li>%2</"
 "ul></div>"
 
 #: cantor.cpp:256

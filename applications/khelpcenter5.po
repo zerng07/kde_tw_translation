@@ -14,16 +14,15 @@ msgstr ""
 "Project-Id-Version: khelpcenter\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2017-07-25 03:09+0200\n"
-"PO-Revision-Date: 2016-07-09 17:33+0800\n"
-"Last-Translator: Jeff Huang <s8321414@gmail.com>\n"
+"PO-Revision-Date: 2018-03-29 13:20+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese <kde-i18n-doc@kde.org>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"dot tw>\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -401,7 +400,7 @@ msgstr "找不到 %1。請檢查您的安裝"
 #: searchhandler.cpp:174
 #, kde-format
 msgid "'%1' not found, install the package containing it"
-msgstr "找不到 %1，請安裝相關套件"
+msgstr "找不到 %1，請安裝相關軟體包"
 
 #: searchhandler.cpp:225
 #, kde-format

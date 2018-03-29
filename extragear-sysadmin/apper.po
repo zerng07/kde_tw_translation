@@ -11,15 +11,15 @@ msgstr ""
 "Project-Id-Version: kpackagekit.pot\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2018-02-21 03:19+0100\n"
-"PO-Revision-Date: 2016-12-04 16:29+0800\n"
-"Last-Translator: Jeff Huang <s8321414@gmail.com>\n"
+"PO-Revision-Date: 2018-03-29 14:05+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese <kde-i18n-doc@kde.org>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -54,7 +54,7 @@ msgstr "Mime 類型安裝程式"
 #: Apper/Apper.cpp:103
 #, kde-format
 msgid "Package name installer"
-msgstr "套件名稱安裝程式"
+msgstr "軟體包名稱安裝程式"
 
 #: Apper/Apper.cpp:106
 #, kde-format
@@ -74,12 +74,12 @@ msgstr "型錄安裝程式"
 #: Apper/Apper.cpp:115
 #, kde-format
 msgid "Single package remover"
-msgstr "單一套件移除程式"
+msgstr "單一軟體包移除程式"
 
 #: Apper/Apper.cpp:118
 #, kde-format
 msgid "Package file to install"
-msgstr "要安裝的套件檔案"
+msgstr "要安裝的軟體包檔案"
 
 #: Apper/ApperKCM.cpp:93 Apper/ApperKCM.cpp:292
 #, kde-format
@@ -100,12 +100,12 @@ msgstr "重新檢視"
 #: Apper/ApperKCM.cpp:178
 #, kde-format
 msgid "Discard"
-msgstr ""
+msgstr "放棄"
 
 #: Apper/ApperKCM.cpp:181
 #, kde-format
 msgid "Apply"
-msgstr ""
+msgstr "套用"
 
 #: Apper/ApperKCM.cpp:205 Apper/ApperKCM.cpp:562
 #, kde-format
@@ -192,7 +192,7 @@ msgstr "返回"
 #: Apper/ApperKCM.ui:188
 #, kde-format
 msgid "Search packages"
-msgstr "搜尋套件"
+msgstr "搜尋軟體包"
 
 #. i18n: ectx: property (text), widget (QToolButton, filtersTB)
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
@@ -259,7 +259,7 @@ msgstr "搜尋名稱"
 #: Apper/BackendDetails.ui:62
 #, kde-format
 msgid "Get Package Depends"
-msgstr "取得套件相依關係"
+msgstr "取得軟體包相依關係"
 
 #. i18n: ectx: property (text), widget (QCheckBox, searchDetailsCB)
 #: Apper/BackendDetails.ui:72
@@ -271,7 +271,7 @@ msgstr "搜尋細節"
 #: Apper/BackendDetails.ui:82
 #, kde-format
 msgid "Get Package Requires"
-msgstr "取得套件需求"
+msgstr "取得軟體包需求"
 
 #. i18n: ectx: property (text), widget (QCheckBox, searchGroupCB)
 #: Apper/BackendDetails.ui:92
@@ -295,37 +295,37 @@ msgstr "搜尋檔案"
 #: Apper/BackendDetails.ui:122
 #, kde-format
 msgid "Get Package Description"
-msgstr "取得套件描述"
+msgstr "取得軟體包描述"
 
 #. i18n: ectx: property (text), widget (QCheckBox, getFilesCB)
 #: Apper/BackendDetails.ui:132
 #, kde-format
 msgid "Get Package Files"
-msgstr "取得套件檔案"
+msgstr "取得軟體包檔案"
 
 #. i18n: ectx: property (text), widget (QCheckBox, getDistroUpgradesCB)
 #: Apper/BackendDetails.ui:142
 #, kde-format
 msgid "Get Distro Upgrades"
-msgstr "取得發行版升級"
+msgstr "取得散布版升級"
 
 #. i18n: ectx: property (text), widget (QCheckBox, installPackageCB)
 #: Apper/BackendDetails.ui:152
 #, kde-format
 msgid "Install Packages"
-msgstr "安裝套件"
+msgstr "安裝軟體包"
 
 #. i18n: ectx: property (text), widget (QCheckBox, updatePackageCB)
 #: Apper/BackendDetails.ui:162
 #, kde-format
 msgid "Update Packages"
-msgstr "更新套件"
+msgstr "更新軟體包"
 
 #. i18n: ectx: property (text), widget (QCheckBox, removePackageCB)
 #: Apper/BackendDetails.ui:172
 #, kde-format
 msgid "Remove Packages"
-msgstr "移除套件"
+msgstr "移除軟體包"
 
 #. i18n: ectx: property (text), widget (QCheckBox, installFileCB)
 #: Apper/BackendDetails.ui:182
@@ -349,7 +349,7 @@ msgstr "取消"
 #: Apper/BackendDetails.ui:212
 #, kde-format
 msgid "Get Packages"
-msgstr "取得套件"
+msgstr "取得軟體包"
 
 #. i18n: ectx: property (text), widget (QCheckBox, whatProvidesCB)
 #: Apper/BackendDetails.ui:222
@@ -361,19 +361,19 @@ msgstr "提供的資料"
 #: Apper/BackendDetails.ui:232
 #, kde-format
 msgid "Set Repository Data"
-msgstr "設定套件庫資料"
+msgstr "設定軟體庫資料"
 
 #. i18n: ectx: property (text), widget (QCheckBox, repositoryEnableCB)
 #: Apper/BackendDetails.ui:242
 #, kde-format
 msgid "Enable Repository"
-msgstr "啟用套件庫"
+msgstr "啟用軟體庫"
 
 #. i18n: ectx: property (text), widget (QCheckBox, getRepositoryListCB)
 #: Apper/BackendDetails.ui:252
 #, kde-format
 msgid "Get Repository List"
-msgstr "取得套件庫清單"
+msgstr "取得軟體庫清單"
 
 #. i18n: ectx: property (text), widget (QCheckBox, repairSystemCB)
 #: Apper/BackendDetails.ui:262
@@ -409,7 +409,7 @@ msgstr "後端程式作者："
 #: Apper/BackendDetails.ui:326
 #, kde-format
 msgid "Distribution ID:"
-msgstr "發行版 ID："
+msgstr "散布版 ID："
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_4)
 #: Apper/BackendDetails.ui:343
@@ -440,7 +440,7 @@ msgstr "軟體開發"
 #: Apper/BackendDetails.ui:402
 #, kde-format
 msgid "Package is visible"
-msgstr "套件可顯示"
+msgstr "軟體包可顯示"
 
 #. i18n: ectx: property (text), widget (QCheckBox, newestCB)
 #: Apper/BackendDetails.ui:412
@@ -496,25 +496,25 @@ msgstr "顯示大小"
 #, fuzzy, kde-format
 #| msgid "Export Installed Package List..."
 msgid "Export installed packages"
-msgstr "匯出已安裝套件的清單..."
+msgstr "匯出已安裝軟體包的清單..."
 
 #: Apper/BrowseView.cpp:306
 #, fuzzy, kde-format
 #| msgid "Install Packages Catalogs"
 msgid "Install packages from catalog"
-msgstr "安裝套件型錄"
+msgstr "安裝軟體包型錄"
 
 #. i18n: ectx: property (text), widget (QPushButton, exportInstalledPB)
 #: Apper/BrowseView.ui:140
 #, kde-format
 msgid "Export Installed Package List..."
-msgstr "匯出已安裝套件的清單..."
+msgstr "匯出已安裝軟體包的清單..."
 
 #. i18n: ectx: property (text), widget (QPushButton, importInstalledPB)
 #: Apper/BrowseView.ui:150
 #, kde-format
 msgid "Install Packages from List..."
-msgstr "從清單安裝套件..."
+msgstr "從清單安裝軟體包..."
 
 #: Apper/CategoryModel.cpp:54 Apper/CategoryModel.cpp:62
 #, kde-format
@@ -639,32 +639,32 @@ msgstr "只有非源碼"
 #: Apper/FiltersMenu.cpp:236
 #, kde-format
 msgid "Hide Subpackages"
-msgstr "隱藏子套件"
+msgstr "隱藏子軟體包"
 
 #: Apper/FiltersMenu.cpp:240
 #, kde-format
 msgid "Only show one package, not subpackages"
-msgstr "只顯示一個套件，不包括子套件"
+msgstr "只顯示一個軟體包，不包括子軟體包"
 
 #: Apper/FiltersMenu.cpp:244
 #, kde-format
 msgid "Only Newest Packages"
-msgstr "只有最新套件"
+msgstr "只有最新軟體包"
 
 #: Apper/FiltersMenu.cpp:249
 #, kde-format
 msgid "Only show the newest available package"
-msgstr "只顯示最新的可用套件"
+msgstr "只顯示最新的可用軟體包"
 
 #: Apper/FiltersMenu.cpp:253
 #, kde-format
 msgid "Only Native Packages"
-msgstr "只有原生套件"
+msgstr "只有原生軟體包"
 
 #: Apper/FiltersMenu.cpp:258
 #, kde-format
 msgid "Only show packages matching the machine architecture"
-msgstr "只顯示符合系統架構的套件"
+msgstr "只顯示符合系統架構的軟體包"
 
 #: Apper/FiltersMenu.cpp:264
 #, kde-format
@@ -674,7 +674,7 @@ msgstr "只顯示應用程式"
 #: Apper/FiltersMenu.cpp:267
 #, kde-format
 msgid "Hide packages that are not applications"
-msgstr "隱藏非應用程式的套件"
+msgstr "隱藏非應用程式的軟體包"
 
 #: Apper/main.cpp:44 Apper/MainUi.cpp:41
 #, kde-format
@@ -773,7 +773,7 @@ msgstr "找不到螢幕截圖。"
 #: Apper/Settings/OriginModel.cpp:37
 #, kde-format
 msgid "Origin of Packages"
-msgstr "套件來源"
+msgstr "軟體包來源"
 
 #: Apper/Settings/Settings.cpp:64
 #, kde-format
@@ -885,19 +885,19 @@ msgstr "在安裝完新應用程式後顯示應用程式啟動器"
 #: Apper/Settings/Settings.ui:206
 #, kde-format
 msgid "Show confirmation dialog when installing or updating packages"
-msgstr "當安裝套件或更新套件時顯示確認對話窗"
+msgstr "當安裝軟體包或更新軟體包時顯示確認對話窗"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: Apper/Settings/Settings.ui:213
 #, kde-format
 msgid "Check for distribution upgrades:"
-msgstr "檢查發行版升級："
+msgstr "檢查散布版升級："
 
 #. i18n: ectx: property (text), widget (QCheckBox, showOriginsCB)
 #: Apper/Settings/Settings.ui:270
 #, kde-format
 msgid "&Show origins of debug and development packages"
-msgstr "顯示除錯與開發套件的對象 (原始套件)(&S)"
+msgstr "顯示除錯與開發軟體包的對象 (原始軟體包)(&S)"
 
 #. i18n: ectx: property (text), widget (QPushButton, editOriginsPB)
 #: Apper/Settings/Settings.ui:290
@@ -950,7 +950,7 @@ msgstr "更新"
 #: Apper/Updater/DistroUpgrade.cpp:50
 #, kde-format
 msgid "Distribution upgrade available: %1"
-msgstr "可進行發行版升級：%1"
+msgstr "可進行散布版升級：%1"
 
 #: Apper/Updater/DistroUpgrade.cpp:65
 #, kde-format
@@ -959,8 +959,8 @@ msgid ""
 "usually a very lengthy process and takes a lot longer than simply upgrading "
 "your packages."
 msgstr ""
-"您正打算升級您的發行版到最新的版本。這通常會是非常冗長的程序，比起僅只是升級"
-"您的套件，它會花上更多大量的時間。"
+"您正打算升級您的散布版到最新的版本。這通常會是非常冗長的程序，比起僅只是升級"
+"您的軟體包，它會花上更多大量的時間。"
 
 #: Apper/Updater/DistroUpgrade.cpp:70
 #, kde-format
@@ -977,29 +977,29 @@ msgstr "建議您在執行升級的這段期間內都不要拔除電源線。"
 #: Apper/Updater/DistroUpgrade.cpp:90
 #, kde-format
 msgid "Distribution upgrade complete."
-msgstr "發行版升級完成。"
+msgstr "散布版升級完成。"
 
 #: Apper/Updater/DistroUpgrade.cpp:92 apperd/DistroUpgrade.cpp:144
 #, kde-format
 msgid "Distribution upgrade process exited with code %1."
-msgstr "發行版升級程序關閉，伴隨輸出碼 %1。"
+msgstr "散布版升級程序關閉，伴隨輸出碼 %1。"
 
 #: Apper/Updater/DistroUpgrade.cpp:104 apperd/DistroUpgrade.cpp:162
 #, kde-format
 msgid "The distribution upgrade process failed to start."
-msgstr "發行版升級程序啟動失敗。"
+msgstr "散布版升級程序啟動失敗。"
 
 #: Apper/Updater/DistroUpgrade.cpp:108 apperd/DistroUpgrade.cpp:165
 #, kde-format
 msgid ""
 "The distribution upgrade process crashed some time after starting "
 "successfully."
-msgstr "發行版升級程序在成功啟動後一段時間內當掉了。"
+msgstr "散布版升級程序在成功啟動後一段時間內當掉了。"
 
 #: Apper/Updater/DistroUpgrade.cpp:112 apperd/DistroUpgrade.cpp:168
 #, kde-format
 msgid "The distribution upgrade process failed with an unknown error."
-msgstr "發行版升級程序由於不明的錯誤而失敗。"
+msgstr "散布版升級程序由於不明的錯誤而失敗。"
 
 #: Apper/Updater/UpdateDetails.cpp:183
 #, kde-format
@@ -1020,7 +1020,7 @@ msgstr "此更新相當重要，它可以解決許多嚴重問題。"
 #, kde-format
 msgid ""
 "This update is needed to fix a security vulnerability with this package."
-msgstr "此套件需要藉由此更新來修補安全性弱點。"
+msgstr "此軟體包需要藉由此更新來修補安全性弱點。"
 
 #: Apper/Updater/UpdateDetails.cpp:199
 #, kde-format
@@ -1136,7 +1136,7 @@ msgstr "檢查是否有更新"
 #: apperd/DistroUpgrade.cpp:88
 #, kde-format
 msgid "Distribution upgrade available"
-msgstr "可進行發行版升級"
+msgstr "可進行散布版升級"
 
 #: apperd/DistroUpgrade.cpp:92
 #, kde-format
@@ -1146,7 +1146,7 @@ msgstr "現在開始升級"
 #: apperd/DistroUpgrade.cpp:141
 #, kde-format
 msgid "Distribution upgrade finished. "
-msgstr "發行版升級完成。"
+msgstr "散布版升級完成。"
 
 #: apperd/TransactionWatcher.cpp:142
 #, kde-format
@@ -1162,7 +1162,7 @@ msgstr "重新啟動"
 #, kde-format
 msgid "Package: %2"
 msgid_plural "Packages: %2"
-msgstr[0] "套件：%2"
+msgstr[0] "軟體包：%2"
 
 #: apperd/Updater.cpp:156
 #, kde-format
@@ -1231,17 +1231,17 @@ msgstr "顯示詳細資訊"
 #: AppSetup/main.cpp:62
 #, kde-format
 msgid "IPK package filename"
-msgstr "IPK 套件檔名"
+msgstr "IPK 軟體包檔名"
 
 #: AppSetup/main.cpp:79
 #, kde-format
 msgid "We did not receive a path to an IPK package as parameter."
-msgstr "沒有現有的 IPK 套件做為參數。"
+msgstr "沒有現有的 IPK 軟體包做為參數。"
 
 #: AppSetup/main.cpp:80
 #, kde-format
 msgid "Package not found!"
-msgstr "找不到套件。"
+msgstr "找不到軟體包。"
 
 #: AppSetup/SetupWizard.cpp:85 libapper/Requirements.cpp:57
 #: PkSession/SessionTask.cpp:73
@@ -1466,25 +1466,25 @@ msgstr "正在取得資訊"
 #, kde-format
 msgctxt "transaction state, removing packages"
 msgid "Removing packages"
-msgstr "正在移除套件"
+msgstr "正在移除軟體包"
 
 #: libapper/PkStrings.cpp:61
 #, kde-format
 msgctxt "transaction state, downloading package files"
 msgid "Downloading at %1/s, %2 remaining"
-msgstr "正在下載套件，速度 %1/秒，還剩 %2"
+msgstr "正在下載軟體包，速度 %1/秒，還剩 %2"
 
 #: libapper/PkStrings.cpp:67
 #, kde-format
 msgctxt "transaction state, downloading package files"
 msgid "Downloading at %1/s"
-msgstr "正在下載套件，速度 %1/秒"
+msgstr "正在下載軟體包，速度 %1/秒"
 
 #: libapper/PkStrings.cpp:72
 #, kde-format
 msgctxt "transaction state, downloading package files"
 msgid "Downloading, %1 remaining"
-msgstr "正在下載套件，還剩 %1"
+msgstr "正在下載軟體包，還剩 %1"
 
 #: libapper/PkStrings.cpp:76
 #, kde-format
@@ -1496,7 +1496,7 @@ msgstr "正在下載"
 #, kde-format
 msgctxt "transaction state, installing packages"
 msgid "Installing packages"
-msgstr "正在安裝套件"
+msgstr "正在安裝軟體包"
 
 #: libapper/PkStrings.cpp:83
 #, kde-format
@@ -1508,19 +1508,19 @@ msgstr "正在重新整理軟體清單"
 #, kde-format
 msgctxt "transaction state, installing updates"
 msgid "Updating packages"
-msgstr "正在更新套件"
+msgstr "正在更新軟體包"
 
 #: libapper/PkStrings.cpp:89
 #, kde-format
 msgctxt "transaction state, removing old packages, and cleaning config files"
 msgid "Cleaning up packages"
-msgstr "正在清理套件"
+msgstr "正在清理軟體包"
 
 #: libapper/PkStrings.cpp:92
 #, kde-format
 msgctxt "transaction state, obsoleting old packages"
 msgid "Obsoleting packages"
-msgstr "正在廢棄套件"
+msgstr "正在廢棄軟體包"
 
 #: libapper/PkStrings.cpp:95
 #, kde-format
@@ -1570,13 +1570,13 @@ msgstr "正在取消"
 #, kde-format
 msgctxt "transaction state, downloading metadata"
 msgid "Downloading repository information"
-msgstr "正在下載套件庫資訊"
+msgstr "正在下載軟體庫資訊"
 
 #: libapper/PkStrings.cpp:119
 #, kde-format
 msgctxt "transaction state, downloading metadata"
 msgid "Downloading list of packages"
-msgstr "正在下載套件清單"
+msgstr "正在下載軟體包清單"
 
 #: libapper/PkStrings.cpp:122
 #, kde-format
@@ -1625,13 +1625,13 @@ msgstr "正在掃描已安裝的應用程式"
 msgctxt ""
 "transaction state, generating a list of packages installed on the system"
 msgid "Generating package lists"
-msgstr "正在產生套件清單"
+msgstr "正在產生軟體包清單"
 
 #: libapper/PkStrings.cpp:146
 #, kde-format
 msgctxt "transaction state, when we're waiting for the native tools to exit"
 msgid "Waiting for package manager lock"
-msgstr "正在等候套件管理程式鎖定"
+msgstr "正在等候軟體包管理程式鎖定"
 
 #: libapper/PkStrings.cpp:149
 #, kde-format
@@ -1765,7 +1765,7 @@ msgstr "搜尋群組中"
 #, kde-format
 msgctxt "The role of the transaction, in present tense"
 msgid "Searching by package name"
-msgstr "依套件名稱搜尋中"
+msgstr "依軟體包名稱搜尋中"
 
 #: libapper/PkStrings.cpp:222
 #, kde-format
@@ -1778,7 +1778,7 @@ msgstr "正在模擬移除"
 #, kde-format
 msgctxt "The role of the transaction, in present tense"
 msgid "Downloading packages"
-msgstr "下載套件中"
+msgstr "下載軟體包中"
 
 #: libapper/PkStrings.cpp:226
 #, kde-format
@@ -1808,7 +1808,7 @@ msgstr "正在模擬檔案安裝"
 #, kde-format
 msgctxt "The role of the transaction, in present tense"
 msgid "Downloading required packages"
-msgstr "正在下載需要的套件"
+msgstr "正在下載需要的軟體包"
 
 #: libapper/PkStrings.cpp:240
 #, kde-format
@@ -1820,7 +1820,7 @@ msgstr "安裝檔案中"
 #, kde-format
 msgctxt "The role of the transaction, in present tense"
 msgid "Refreshing package cache"
-msgstr "重新載入套件快取中"
+msgstr "重新載入軟體包快取中"
 
 #: libapper/PkStrings.cpp:245
 #, kde-format
@@ -1838,7 +1838,7 @@ msgstr "正在下載更新"
 #, kde-format
 msgctxt "The role of the transaction, in present tense"
 msgid "Updating packages"
-msgstr "更新套件中"
+msgstr "更新軟體包中"
 
 #: libapper/PkStrings.cpp:251
 #, kde-format
@@ -1850,19 +1850,19 @@ msgstr "取消中"
 #, kde-format
 msgctxt "The role of the transaction, in present tense"
 msgid "Getting list of repositories"
-msgstr "取得套件庫清單中"
+msgstr "取得軟體庫清單中"
 
 #: libapper/PkStrings.cpp:255
 #, kde-format
 msgctxt "The role of the transaction, in present tense"
 msgid "Enabling repository"
-msgstr "啟用套件庫中"
+msgstr "啟用軟體庫中"
 
 #: libapper/PkStrings.cpp:257
 #, kde-format
 msgctxt "The role of the transaction, in present tense"
 msgid "Setting repository data"
-msgstr "設定套件庫資料中"
+msgstr "設定軟體庫資料中"
 
 #: libapper/PkStrings.cpp:259
 #, kde-format
@@ -1892,7 +1892,7 @@ msgstr "安裝簽章中"
 #, kde-format
 msgctxt "The role of the transaction, in present tense"
 msgid "Getting package lists"
-msgstr "取得套件清單中"
+msgstr "取得軟體包清單中"
 
 #: libapper/PkStrings.cpp:270
 #, kde-format
@@ -1904,7 +1904,7 @@ msgstr "接受終端使用者授權條款協議中"
 #, kde-format
 msgctxt "The role of the transaction, in present tense"
 msgid "Getting distribution upgrade information"
-msgstr "取得發行版升級資訊中"
+msgstr "取得散布版升級資訊中"
 
 #: libapper/PkStrings.cpp:276
 #, kde-format
@@ -1928,7 +1928,7 @@ msgstr "修復系統中"
 #, kde-format
 msgctxt "The role of the transaction, in present tense"
 msgid "Removing repository"
-msgstr "移除套件庫中"
+msgstr "移除軟體庫中"
 
 #: libapper/PkStrings.cpp:284
 #, fuzzy, kde-format
@@ -1978,7 +1978,7 @@ msgstr "已取得更新"
 #, kde-format
 msgctxt "The role of the transaction, in past tense"
 msgid "Searched for package details"
-msgstr "已搜尋套件細節"
+msgstr "已搜尋軟體包細節"
 
 #: libapper/PkStrings.cpp:314
 #, kde-format
@@ -1996,19 +1996,19 @@ msgstr "已搜尋群組"
 #, kde-format
 msgctxt "The role of the transaction, in past tense"
 msgid "Searched for package name"
-msgstr "已搜尋套件名稱"
+msgstr "已搜尋軟體包名稱"
 
 #: libapper/PkStrings.cpp:320
 #, kde-format
 msgctxt "The role of the transaction, in past tense"
 msgid "Removed packages"
-msgstr "已移除套件"
+msgstr "已移除軟體包"
 
 #: libapper/PkStrings.cpp:322
 #, kde-format
 msgctxt "The role of the transaction, in past tense"
 msgid "Installed packages"
-msgstr "已安裝套件"
+msgstr "已安裝軟體包"
 
 #: libapper/PkStrings.cpp:324
 #, kde-format
@@ -2020,13 +2020,13 @@ msgstr "已安裝本地檔案"
 #, kde-format
 msgctxt "The role of the transaction, in past tense"
 msgid "Refreshed package cache"
-msgstr "已重新載入套件快取"
+msgstr "已重新載入軟體包快取"
 
 #: libapper/PkStrings.cpp:328
 #, kde-format
 msgctxt "The role of the transaction, in past tense"
 msgid "Updated packages"
-msgstr "已更新套件"
+msgstr "已更新軟體包"
 
 #: libapper/PkStrings.cpp:330
 #, kde-format
@@ -2038,19 +2038,19 @@ msgstr "已取消"
 #, kde-format
 msgctxt "The role of the transaction, in past tense"
 msgid "Got list of repositories"
-msgstr "已取得套件庫清單"
+msgstr "已取得軟體庫清單"
 
 #: libapper/PkStrings.cpp:334
 #, kde-format
 msgctxt "The role of the transaction, in past tense"
 msgid "Enabled repository"
-msgstr "已啟用套件庫"
+msgstr "已啟用軟體庫"
 
 #: libapper/PkStrings.cpp:336
 #, kde-format
 msgctxt "The role of the transaction, in past tense"
 msgid "Set repository data"
-msgstr "已設定套件庫資料"
+msgstr "已設定軟體庫資料"
 
 #: libapper/PkStrings.cpp:338
 #, kde-format
@@ -2080,7 +2080,7 @@ msgstr "已安裝簽章"
 #, kde-format
 msgctxt "The role of the transaction, in past tense"
 msgid "Got package lists"
-msgstr "已取得套件清單"
+msgstr "已取得軟體包清單"
 
 #: libapper/PkStrings.cpp:349
 #, kde-format
@@ -2092,13 +2092,13 @@ msgstr "已接受終端使用者授權條款協議"
 #, kde-format
 msgctxt "The role of the transaction, in past tense"
 msgid "Downloaded packages"
-msgstr "已下載套件"
+msgstr "已下載軟體包"
 
 #: libapper/PkStrings.cpp:353
 #, kde-format
 msgctxt "The role of the transaction, in past tense"
 msgid "Got distribution upgrades"
-msgstr "已取得發行版升級"
+msgstr "已取得散布版升級"
 
 #: libapper/PkStrings.cpp:355
 #, kde-format
@@ -2122,7 +2122,7 @@ msgstr "已修復系統"
 #, kde-format
 msgctxt "The role of the transaction, in past tense"
 msgid "Removed repository"
-msgstr "已移除套件庫"
+msgstr "已移除軟體庫"
 
 #: libapper/PkStrings.cpp:363
 #, fuzzy, kde-format
@@ -2225,7 +2225,7 @@ msgstr "沒有可用的網路連結"
 #: libapper/PkStrings.cpp:429
 #, kde-format
 msgid "No package cache is available"
-msgstr "沒有可用的套件快取"
+msgstr "沒有可用的軟體包快取"
 
 #: libapper/PkStrings.cpp:431
 #, kde-format
@@ -2255,22 +2255,22 @@ msgstr "某個安全信任關係不存在"
 #: libapper/PkStrings.cpp:441
 #, kde-format
 msgid "The package is not installed"
-msgstr "未安裝此套件"
+msgstr "未安裝此軟體包"
 
 #: libapper/PkStrings.cpp:443
 #, kde-format
 msgid "The package was not found"
-msgstr "尋找不到此套件"
+msgstr "尋找不到此軟體包"
 
 #: libapper/PkStrings.cpp:445
 #, kde-format
 msgid "The package is already installed"
-msgstr "此套件已經安裝"
+msgstr "此軟體包已經安裝"
 
 #: libapper/PkStrings.cpp:447
 #, kde-format
 msgid "The package download failed"
-msgstr "此套件下載失敗"
+msgstr "此軟體包下載失敗"
 
 #: libapper/PkStrings.cpp:449
 #, kde-format
@@ -2295,7 +2295,7 @@ msgstr "搜尋的過濾條件無效"
 #: libapper/PkStrings.cpp:457
 #, kde-format
 msgid "The package identifier was not well formed"
-msgstr "套件識別符設置不良"
+msgstr "軟體包識別符設置不良"
 
 #: libapper/PkStrings.cpp:459
 #, kde-format
@@ -2305,12 +2305,12 @@ msgstr "執行事項錯誤"
 #: libapper/PkStrings.cpp:461
 #, kde-format
 msgid "Repository name was not found"
-msgstr "找不到套件庫名稱"
+msgstr "找不到軟體庫名稱"
 
 #: libapper/PkStrings.cpp:463
 #, kde-format
 msgid "Could not remove a protected system package"
-msgstr "無法移除受保護的系統套件"
+msgstr "無法移除受保護的系統軟體包"
 
 #: libapper/PkStrings.cpp:465
 #, kde-format
@@ -2335,7 +2335,7 @@ msgstr "此工作項目無法取消"
 #: libapper/PkStrings.cpp:473
 #, kde-format
 msgid "Source packages cannot be installed"
-msgstr "無法安裝源碼套件"
+msgstr "無法安裝源碼軟體包"
 
 #: libapper/PkStrings.cpp:475
 #, kde-format
@@ -2345,12 +2345,12 @@ msgstr "授權條款協議失敗"
 #: libapper/PkStrings.cpp:477
 #, kde-format
 msgid "Local file conflict between packages"
-msgstr "本地檔案在套件間產生衝突"
+msgstr "本地檔案在軟體包間產生衝突"
 
 #: libapper/PkStrings.cpp:479
 #, kde-format
 msgid "Packages are not compatible"
-msgstr "套件不相容"
+msgstr "軟體包不相容"
 
 #: libapper/PkStrings.cpp:481
 #, kde-format
@@ -2375,12 +2375,12 @@ msgstr "無法取得鎖"
 #: libapper/PkStrings.cpp:489
 #, kde-format
 msgid "No packages to update"
-msgstr "沒有套件需要更新"
+msgstr "沒有軟體包需要更新"
 
 #: libapper/PkStrings.cpp:491
 #, kde-format
 msgid "Cannot write repository configuration"
-msgstr "無法寫入套件庫設定"
+msgstr "無法寫入軟體庫設定"
 
 #: libapper/PkStrings.cpp:493
 #, kde-format
@@ -2400,27 +2400,27 @@ msgstr "遺失了 GPG 簽章"
 #: libapper/PkStrings.cpp:499
 #, kde-format
 msgid "Repository configuration invalid"
-msgstr "無效的套件庫設定"
+msgstr "無效的軟體庫設定"
 
 #: libapper/PkStrings.cpp:501
 #, kde-format
 msgid "Invalid package file"
-msgstr "無效的套件檔案"
+msgstr "無效的軟體包檔案"
 
 #: libapper/PkStrings.cpp:503
 #, kde-format
 msgid "Package install blocked"
-msgstr "套件安裝被封鎖"
+msgstr "軟體包安裝被封鎖"
 
 #: libapper/PkStrings.cpp:505
 #, kde-format
 msgid "Package is corrupt"
-msgstr "套件損毀"
+msgstr "軟體包損毀"
 
 #: libapper/PkStrings.cpp:507
 #, kde-format
 msgid "All packages are already installed"
-msgstr "已安裝所有套件"
+msgstr "已安裝所有軟體包"
 
 #: libapper/PkStrings.cpp:509
 #, kde-format
@@ -2435,12 +2435,12 @@ msgstr "沒有其他可用的鏡像站"
 #: libapper/PkStrings.cpp:513
 #, kde-format
 msgid "No distribution upgrade data is available"
-msgstr "沒有可用的發行版升級資料"
+msgstr "沒有可用的散布版升級資料"
 
 #: libapper/PkStrings.cpp:515
 #, kde-format
 msgid "Package is incompatible with this system"
-msgstr "套件與本系統不相容"
+msgstr "軟體包與本系統不相容"
 
 #: libapper/PkStrings.cpp:517
 #, kde-format
@@ -2480,7 +2480,7 @@ msgstr "無法取得檔案清單"
 #: libapper/PkStrings.cpp:531
 #, kde-format
 msgid "Cannot get package requires"
-msgstr "無法取得套件需求"
+msgstr "無法取得軟體包需求"
 
 #: libapper/PkStrings.cpp:533
 #, kde-format
@@ -2495,22 +2495,22 @@ msgstr "下載失敗"
 #: libapper/PkStrings.cpp:537
 #, kde-format
 msgid "Package failed to configure"
-msgstr "套件設定失敗"
+msgstr "軟體包設定失敗"
 
 #: libapper/PkStrings.cpp:539
 #, kde-format
 msgid "Package failed to build"
-msgstr "套件建立失敗"
+msgstr "軟體包建立失敗"
 
 #: libapper/PkStrings.cpp:541
 #, kde-format
 msgid "Package failed to install"
-msgstr "套件安裝失敗"
+msgstr "軟體包安裝失敗"
 
 #: libapper/PkStrings.cpp:543
 #, kde-format
 msgid "Package failed to be removed"
-msgstr "套件移除失敗"
+msgstr "軟體包移除失敗"
 
 #: libapper/PkStrings.cpp:545
 #, kde-format
@@ -2520,7 +2520,7 @@ msgstr "由於程序正在執行，因而更新失敗"
 #: libapper/PkStrings.cpp:547
 #, kde-format
 msgid "The package database was changed"
-msgstr "套件資料庫已變更"
+msgstr "軟體包資料庫已變更"
 
 #: libapper/PkStrings.cpp:549
 #, kde-format
@@ -2572,7 +2572,7 @@ msgid ""
 "The package list needs to be rebuilt.\n"
 "This should have been done by the backend automatically."
 msgstr ""
-"套件清單需要重建。\n"
+"軟體包清單需要重建。\n"
 "這應該要被後端程式自動處理完成。"
 
 #: libapper/PkStrings.cpp:577
@@ -2621,19 +2621,19 @@ msgstr ""
 #, kde-format
 msgid ""
 "The package that is trying to be removed or updated is not already installed."
-msgstr "您正嘗試要移除或更新的套件並未安裝。"
+msgstr "您正嘗試要移除或更新的軟體包並未安裝。"
 
 #: libapper/PkStrings.cpp:593
 #, kde-format
 msgid ""
 "The package that is being modified was not found on your system or in any "
 "software origin."
-msgstr "在您的系統上或是任何軟體來源內都找不到要修改的套件"
+msgstr "在您的系統上或是任何軟體來源內都找不到要修改的軟體包"
 
 #: libapper/PkStrings.cpp:595
 #, kde-format
 msgid "The package that is trying to be installed is already installed."
-msgstr "嘗試要安裝的套件已經安裝過了。"
+msgstr "嘗試要安裝的軟體包已經安裝過了。"
 
 #: libapper/PkStrings.cpp:597
 #, kde-format
@@ -2641,7 +2641,7 @@ msgid ""
 "The package download failed.\n"
 "Please check your network connectivity."
 msgstr ""
-"套件下載失敗。\n"
+"軟體包下載失敗。\n"
 "請檢查您的網路連結。"
 
 #: libapper/PkStrings.cpp:600
@@ -2669,7 +2669,7 @@ msgid ""
 "A package dependency could not be found.\n"
 "More information is available in the detailed report."
 msgstr ""
-"找不到其中一個套件相依性。\n"
+"找不到其中一個軟體包相依性。\n"
 "在這詳細的報告中有更多資訊。"
 
 #: libapper/PkStrings.cpp:610
@@ -2683,7 +2683,7 @@ msgid ""
 "The package identifier was not well formed when sent to the system daemon.\n"
 "This normally indicates an internal bug and should be reported."
 msgstr ""
-"當套件識別符傳送至系統守護程式時發現設置不良。\n"
+"當軟體包識別符傳送至系統守護程式時發現設置不良。\n"
 "這一般可能是程式內部錯誤並且應該回報。"
 
 #: libapper/PkStrings.cpp:615
@@ -2707,12 +2707,12 @@ msgstr ""
 #: libapper/PkStrings.cpp:621
 #, kde-format
 msgid "Removing a protected system package is not allowed."
-msgstr "不允許移除受保護的系統套件。"
+msgstr "不允許移除受保護的系統軟體包。"
 
 #: libapper/PkStrings.cpp:623
 #, kde-format
 msgid "The task was canceled successfully and no packages were changed."
-msgstr "此工作項目已成功取消，沒有任何套件被變更。"
+msgstr "此工作項目已成功取消，沒有任何軟體包被變更。"
 
 #: libapper/PkStrings.cpp:625
 #, kde-format
@@ -2720,7 +2720,7 @@ msgid ""
 "The task was canceled successfully and no packages were changed.\n"
 "The backend did not exit cleanly."
 msgstr ""
-"工作事項已成功取消並且沒有套件被變更。\n"
+"工作事項已成功取消並且沒有軟體包被變更。\n"
 "但後端程式沒有乾淨地關閉。"
 
 #: libapper/PkStrings.cpp:628
@@ -2729,7 +2729,7 @@ msgid ""
 "The native package configuration file could not be opened.\n"
 "Please make sure your system's configuration is valid."
 msgstr ""
-"無法開啟原生套件設定檔。\n"
+"無法開啟原生軟體包設定檔。\n"
 "請確認您系統的設定是否有效。"
 
 #: libapper/PkStrings.cpp:631
@@ -2743,7 +2743,7 @@ msgid ""
 "Source packages are not normally installed this way.\n"
 "Check the extension of the file you are trying to install."
 msgstr ""
-"源碼套件一般不是這樣安裝的。\n"
+"源碼軟體包一般不是這樣安裝的。\n"
 "請檢查您嘗試安裝的檔案其延伸檔名。"
 
 #: libapper/PkStrings.cpp:636
@@ -2761,8 +2761,8 @@ msgid ""
 "Two packages provide the same file.\n"
 "This is usually due to mixing packages for different software origins."
 msgstr ""
-"兩個套件提供相同的檔案。\n"
-"這通常是因為混用了不同軟體來源提供的套件。"
+"兩個軟體包提供相同的檔案。\n"
+"這通常是因為混用了不同軟體來源提供的軟體包。"
 
 #: libapper/PkStrings.cpp:642
 #, kde-format
@@ -2770,8 +2770,8 @@ msgid ""
 "Multiple packages exist that are not compatible with each other.\n"
 "This is usually due to mixing packages from different software origins."
 msgstr ""
-"有多個彼此間不相容的套件存在。\n"
-"這通常是因為混用了不同軟體來源提供的套件。"
+"有多個彼此間不相容的軟體包存在。\n"
+"這通常是因為混用了不同軟體來源提供的軟體包。"
 
 #: libapper/PkStrings.cpp:645
 #, kde-format
@@ -2788,8 +2788,8 @@ msgid ""
 "Failed to initialize packaging backend.\n"
 "This may occur if other packaging tools are being used simultaneously."
 msgstr ""
-"初始化套件包裝後端程式失敗。\n"
-"這可能起因於其他的套件包裝工具正同時間被使用著。"
+"初始化軟體包打包後端程式失敗。\n"
+"這可能起因於其他的軟體包打包工具正同時間被使用著。"
 
 #: libapper/PkStrings.cpp:651
 #, kde-format
@@ -2806,18 +2806,18 @@ msgid ""
 "Cannot get the exclusive lock on the packaging backend.\n"
 "Please close any other legacy packaging tools that may be open."
 msgstr ""
-"無法在套件包裝後端程式上取得獨佔性的鎖。\n"
-"請關閉任何其他可能開啟卻仍在使用的套件包裝工具。"
+"無法在軟體包打包後端程式上取得獨佔性的鎖。\n"
+"請關閉任何其他可能開啟卻仍在使用的軟體包打包工具。"
 
 #: libapper/PkStrings.cpp:657
 #, kde-format
 msgid "None of the selected packages could be updated."
-msgstr "所選的套件都不能更新。"
+msgstr "所選的軟體包都不能更新。"
 
 #: libapper/PkStrings.cpp:659
 #, kde-format
 msgid "The repository configuration could not be modified."
-msgstr "無法修改套件庫設定。"
+msgstr "無法修改軟體庫設定。"
 
 #: libapper/PkStrings.cpp:661
 #, kde-format
@@ -2831,7 +2831,7 @@ msgstr ""
 #: libapper/PkStrings.cpp:664
 #, kde-format
 msgid "The package signature could not be verified."
-msgstr "無法檢查此套件簽章。"
+msgstr "無法檢查此軟體包簽章。"
 
 #: libapper/PkStrings.cpp:666
 #, kde-format
@@ -2839,13 +2839,13 @@ msgid ""
 "The package signature was missing and this package is untrusted.\n"
 "This package was not signed with a GPG key when created."
 msgstr ""
-"套件簽章遺失並且此套件不被信任。\n"
-"此套件在建立時沒有用 GPG 金鑰簽署。"
+"軟體包簽章遺失並且此軟體包不被信任。\n"
+"此軟體包在建立時沒有用 GPG 金鑰簽署。"
 
 #: libapper/PkStrings.cpp:669
 #, kde-format
 msgid "Repository configuration was invalid and could not be read."
-msgstr "套件庫設定無效並且無法讀取。"
+msgstr "軟體庫設定無效並且無法讀取。"
 
 #: libapper/PkStrings.cpp:671
 #, kde-format
@@ -2853,27 +2853,27 @@ msgid ""
 "The package you are attempting to install is not valid.\n"
 "The package file could be corrupt, or not a proper package."
 msgstr ""
-"您企圖要安裝的套件是無效的。\n"
-"這個套件檔案可能損毀，或不是正確的套件。"
+"您企圖要安裝的軟體包是無效的。\n"
+"這個軟體包檔案可能損毀，或不是正確的軟體包。"
 
 #: libapper/PkStrings.cpp:674
 #, kde-format
 msgid ""
 "Installation of this package was prevented by your packaging system's "
 "configuration."
-msgstr "您套件包裝系統的設定阻止此套件的安裝。"
+msgstr "您軟體包打包系統的設定阻止此軟體包的安裝。"
 
 #: libapper/PkStrings.cpp:676
 #, kde-format
 msgid ""
 "The package that was downloaded is corrupt and needs to be downloaded again."
-msgstr "已下載的套件損毀並且需要重新下載。"
+msgstr "已下載的軟體包損毀並且需要重新下載。"
 
 #: libapper/PkStrings.cpp:678
 #, kde-format
 msgid ""
 "All of the packages selected for install are already installed on the system."
-msgstr "所有選取的要安裝的套件在此系統上已經安裝好了。"
+msgstr "所有選取的要安裝的軟體包在此系統上已經安裝好了。"
 
 #: libapper/PkStrings.cpp:680
 #, kde-format
@@ -2901,13 +2901,13 @@ msgid ""
 "The list of distribution upgrades will be unavailable."
 msgstr ""
 "在任何設置好的軟體來源中皆找不到需要的升級資料。\n"
-"發行版升級清單將不能使用。"
+"散布版升級清單將不能使用。"
 
 #: libapper/PkStrings.cpp:689
 #, kde-format
 msgid ""
 "The package that is trying to be installed is incompatible with this system."
-msgstr "正嘗試要安裝的套件與此系統不相容。"
+msgstr "正嘗試要安裝的軟體包與此系統不相容。"
 
 #: libapper/PkStrings.cpp:691
 #, kde-format
@@ -2945,22 +2945,22 @@ msgstr ""
 #: libapper/PkStrings.cpp:702
 #, kde-format
 msgid "The package could not be installed from untrusted origin."
-msgstr "這個套件無法從不被信任的來源進行安裝。"
+msgstr "這個軟體包無法從不被信任的來源進行安裝。"
 
 #: libapper/PkStrings.cpp:704
 #, kde-format
 msgid "The package could not be updated from untrusted origin."
-msgstr "這個套件無法從不被信任的來源進行更新。"
+msgstr "這個軟體包無法從不被信任的來源進行更新。"
 
 #: libapper/PkStrings.cpp:706
 #, kde-format
 msgid "The file list is not available for this package."
-msgstr "此套件的檔案清單不能使用。"
+msgstr "此軟體包的檔案清單不能使用。"
 
 #: libapper/PkStrings.cpp:708
 #, kde-format
 msgid "The information about what requires this package could not be obtained."
-msgstr "無法取得有關什麼套件需要此套件的資訊。"
+msgstr "無法取得有關什麼軟體包需要此軟體包的資訊。"
 
 #: libapper/PkStrings.cpp:710
 #, kde-format
@@ -2982,7 +2982,7 @@ msgid ""
 "One of the selected packages failed to configure correctly.\n"
 "More information is available in the detailed report."
 msgstr ""
-"所選取的套件之一無法正確設定。\n"
+"所選取的軟體包之一無法正確設定。\n"
 "在這詳細的報告中有更多資訊可用。"
 
 #: libapper/PkStrings.cpp:718
@@ -2991,7 +2991,7 @@ msgid ""
 "One of the selected packages failed to build correctly.\n"
 "More information is available in the detailed report."
 msgstr ""
-"所選取的套件之一無法正確建立。\n"
+"所選取的軟體包之一無法正確建立。\n"
 "在這詳細的報告中有更多資訊可用。"
 
 #: libapper/PkStrings.cpp:721
@@ -3000,7 +3000,7 @@ msgid ""
 "One of the selected packages failed to install correctly.\n"
 "More information is available in the detailed report."
 msgstr ""
-"所選取的套件之一無法正確安裝。\n"
+"所選取的軟體包之一無法正確安裝。\n"
 "在這詳細的報告中有更多資訊可用。"
 
 #: libapper/PkStrings.cpp:724
@@ -3009,7 +3009,7 @@ msgid ""
 "One of the selected packages failed to be removed correctly.\n"
 "More information is available in the detailed report."
 msgstr ""
-"所選取的套件之一無法正確移除。\n"
+"所選取的軟體包之一無法正確移除。\n"
 "在這詳細的報告中有更多資訊可用。"
 
 #: libapper/PkStrings.cpp:727
@@ -3024,7 +3024,7 @@ msgstr ""
 #: libapper/PkStrings.cpp:730
 #, kde-format
 msgid "The package database was changed while the request was running."
-msgstr "當正在執行請求的同時，套件資料庫已經變更。"
+msgstr "當正在執行請求的同時，軟體包資料庫已經變更。"
 
 #: libapper/PkStrings.cpp:732
 #, kde-format
@@ -3051,12 +3051,12 @@ msgstr "處理事項已取消且在系統閒置時將重新嘗試"
 #: libapper/PkStrings.cpp:740
 #, kde-format
 msgid "A previous package management transaction was interrupted."
-msgstr "先前的套件管理員處理被中斷。"
+msgstr "先前的軟體包管理員處理被中斷。"
 
 #: libapper/PkStrings.cpp:742
 #, kde-format
 msgid "A package manager lock is required."
-msgstr "需要鎖定套件管理員"
+msgstr "需要鎖定軟體包管理員"
 
 #: libapper/PkStrings.cpp:744
 #, kde-format
@@ -3185,7 +3185,7 @@ msgstr "管理工具"
 #, kde-format
 msgctxt "The group type"
 msgid "Legacy"
-msgstr "舊套件"
+msgstr "舊軟體包"
 
 #: libapper/PkStrings.cpp:795
 #, kde-format
@@ -3257,7 +3257,7 @@ msgstr "電子學"
 #, kde-format
 msgctxt "The group type"
 msgid "Package collections"
-msgstr "套件合集"
+msgstr "軟體包合集"
 
 #: libapper/PkStrings.cpp:819
 #, kde-format
@@ -3269,7 +3269,7 @@ msgstr "廠商"
 #, kde-format
 msgctxt "The group type"
 msgid "Newest packages"
-msgstr "最新的套件"
+msgstr "最新的軟體包"
 
 #: libapper/PkStrings.cpp:823
 #, kde-format
@@ -3379,13 +3379,13 @@ msgstr[0] "已選取 %1 項"
 #: libapper/PkStrings.cpp:881
 #, kde-format
 msgid "No Packages"
-msgstr "無套件"
+msgstr "無軟體包"
 
 #: libapper/PkStrings.cpp:883
 #, kde-format
 msgid "1 Package"
 msgid_plural "%1 Packages"
-msgstr[0] "%1 個套件"
+msgstr[0] "%1 個軟體包"
 
 #: libapper/PkStrings.cpp:891
 #, kde-format
@@ -3570,8 +3570,8 @@ msgid ""
 "\n"
 "Are you sure you want to proceed with the installation?"
 msgstr ""
-"您正打算安裝未簽署的套件，由於無法驗證該軟體其是否源自信任的來源，所以安裝它"
-"們可能會危害您的電腦。\n"
+"您正打算安裝未簽署的軟體包，由於無法驗證該軟體其是否源自信任的來源，所以安裝"
+"它們可能會危害您的電腦。\n"
 "\n"
 " 您確定您想要繼續進行安裝嗎？"
 
@@ -3595,7 +3595,7 @@ msgstr "圖示"
 #: libapper/PkTransactionWidget.ui:73
 #, kde-format
 msgid "Downloading Packages"
-msgstr "下載套件中"
+msgstr "下載軟體包中"
 
 #. i18n: ectx: property (windowTitle), widget (QDialog, RepoSig)
 #: libapper/RepoSig.ui:14
@@ -3607,7 +3607,7 @@ msgstr "需要軟體簽章"
 #: libapper/RepoSig.ui:47
 #, kde-format
 msgid "Repository name:"
-msgstr "套件庫名稱："
+msgstr "軟體庫名稱："
 
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #: libapper/RepoSig.ui:73
@@ -3631,7 +3631,7 @@ msgstr "簽章識別碼："
 #: libapper/RepoSig.ui:147
 #, kde-format
 msgid "Do you trust the origin of packages?"
-msgstr "您信任這個套件來源嗎？"
+msgstr "您信任這個軟體包來源嗎？"
 
 #: libapper/Requirements.cpp:55
 #, kde-format
@@ -3642,37 +3642,37 @@ msgstr "額外變更"
 #, kde-format
 msgid "1 package to remove"
 msgid_plural "%1 packages to remove"
-msgstr[0] "%1 個套件要移除"
+msgstr[0] "%1 個軟體包要移除"
 
 #: libapper/Requirements.cpp:97
 #, kde-format
 msgid "1 package to downgrade"
 msgid_plural "%1 packages to downgrade"
-msgstr[0] "%1 個套件要降級"
+msgstr[0] "%1 個軟體包要降級"
 
 #: libapper/Requirements.cpp:112
 #, kde-format
 msgid "1 package to reinstall"
 msgid_plural "%1 packages to reinstall"
-msgstr[0] "%1 個套件要重新安裝"
+msgstr[0] "%1 個軟體包要重新安裝"
 
 #: libapper/Requirements.cpp:125
 #, kde-format
 msgid "1 package to install"
 msgid_plural "%1 packages to install"
-msgstr[0] "%1 個套件要安裝"
+msgstr[0] "%1 個軟體包要安裝"
 
 #: libapper/Requirements.cpp:138
 #, kde-format
 msgid "1 package to update"
 msgid_plural "%1 packages to update"
-msgstr[0] "%1 個套件要更新"
+msgstr[0] "%1 個軟體包要更新"
 
 #: libapper/Requirements.cpp:151
 #, kde-format
 msgid "1 untrusted package"
 msgid_plural "%1 untrusted packages"
-msgstr[0] "%1 個未受信任的套件"
+msgstr[0] "%1 個未受信任的軟體包"
 
 #: libapper/Requirements.cpp:199
 #, kde-format
@@ -3686,8 +3686,8 @@ msgid ""
 "You are about to install unsigned packages that can compromise your system, "
 "as it is impossible to verify if the software came from a trusted source."
 msgstr ""
-"您正打算安裝未簽署的套件，由於無法驗證該軟體其是否源自信任的來源，所以安裝它"
-"們可能會危害您的電腦。"
+"您正打算安裝未簽署的軟體包，由於無法驗證該軟體其是否源自信任的來源，所以安裝"
+"它們可能會危害您的電腦。"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: libapper/Requirements.ui:28
@@ -3699,7 +3699,7 @@ msgstr "需要額外變更才能完成這個工作事項"
 #: libapper/Requirements.ui:101
 #, kde-format
 msgid "Do not confirm when installing or updating additional packages"
-msgstr "當安裝或更新額外套件時不要顯示此確認對話窗"
+msgstr "當安裝或更新額外軟體包時不要顯示此確認對話窗"
 
 #. i18n: ectx: property (text), widget (QLabel, descriptionL)
 #: PkSession/IntroDialog.ui:65
@@ -3725,7 +3725,7 @@ msgstr "Trever Fischer"
 #: PkSession/PkInstallCatalogs.cpp:47
 #, kde-format
 msgid "Install Packages Catalogs"
-msgstr "安裝套件型錄"
+msgstr "安裝軟體包型錄"
 
 #: PkSession/PkInstallCatalogs.cpp:66
 #, kde-format
@@ -3795,7 +3795,7 @@ msgstr "型錄是空的"
 #: PkSession/PkInstallCatalogs.cpp:197
 #, kde-format
 msgid "Could not find any package to install in this catalog"
-msgstr "找不到任何套件以安裝這個型錄"
+msgstr "找不到任何軟體包以安裝這個型錄"
 
 #: PkSession/PkInstallFontconfigResources.cpp:43
 #, kde-format
@@ -3822,7 +3822,7 @@ msgid_plural ""
 "Do you want to search for suitable packages now?"
 msgstr[0] ""
 "要正確檢視此文件需要額外字型。\n"
-"您想要現在搜尋合適的套件嗎？"
+"您想要現在搜尋合適的軟體包嗎？"
 
 #: PkSession/PkInstallFontconfigResources.cpp:118
 #, kde-format
@@ -3953,7 +3953,7 @@ msgstr "找不到新的應用程式來處理這個類型的檔案"
 #: PkSession/PkInstallPackageFiles.cpp:40
 #, kde-format
 msgid "Install Packages Files"
-msgstr "安裝套件檔案"
+msgstr "安裝軟體包檔案"
 
 #: PkSession/PkInstallPackageFiles.cpp:44
 #: PkSession/PkRemovePackageByFiles.cpp:45
@@ -3988,14 +3988,14 @@ msgstr[0] "您想要安裝這些檔案請按下「<i>繼續</i>」"
 #, kde-format
 msgid "An application wants to install a package"
 msgid_plural "An application wants to install packages"
-msgstr[0] "某應用程式想要安裝套件"
+msgstr[0] "某應用程式想要安裝軟體包"
 
 #: PkSession/PkInstallPackageFiles.cpp:84
 #: PkSession/PkInstallPackageNames.cpp:76
 #, kde-format
 msgid "The application <i>%2</i> wants to install a package"
 msgid_plural "The application <i>%2</i> wants to install packages"
-msgstr[0] "應用程式 <i>%2</i> 想要安裝套件"
+msgstr[0] "應用程式 <i>%2</i> 想要安裝軟體包"
 
 #: PkSession/PkInstallPackageFiles.cpp:106
 #, kde-format
@@ -4022,29 +4022,29 @@ msgstr "無法安裝檔案"
 #: PkSession/PkInstallPackageNames.cpp:43
 #, kde-format
 msgid "Install Packages by Name"
-msgstr "依據名稱安裝套件"
+msgstr "依據名稱安裝軟體包"
 
 #: PkSession/PkInstallPackageNames.cpp:59
 #, kde-format
 msgid "No package names were provided"
-msgstr "未提供的套件名稱"
+msgstr "未提供的軟體包名稱"
 
 #: PkSession/PkInstallPackageNames.cpp:62
 #, kde-format
 msgid "Do you want to search for and install this package now?"
 msgid_plural "Do you want to search for and install these packages now?"
-msgstr[0] "您現在想要搜尋這些套件並安裝它們嗎？"
+msgstr[0] "您現在想要搜尋這些軟體包並安裝它們嗎？"
 
 #: PkSession/PkInstallPackageNames.cpp:101
 #, kde-format
 msgid "Failed to install packages"
-msgstr "安裝套件失敗"
+msgstr "安裝軟體包失敗"
 
 #: PkSession/PkInstallPackageNames.cpp:102
 #, kde-format
 msgid "The package %2 is already installed"
 msgid_plural "The packages %2 are already installed"
-msgstr[0] "套件 %2 已經安裝"
+msgstr[0] "軟體包 %2 已經安裝"
 
 #: PkSession/PkInstallPackageNames.cpp:110
 #: PkSession/PkRemovePackageByFiles.cpp:140 PkSession/PkSearchFile.cpp:82
@@ -4056,7 +4056,7 @@ msgstr "找不到 %1"
 #, kde-format
 msgid "The package could not be found in any software source"
 msgid_plural "The packages could not be found in any software source"
-msgstr[0] "在任何軟體來源內都找不到這些套件"
+msgstr[0] "在任何軟體來源內都找不到這些軟體包"
 
 #: PkSession/PkInstallPlasmaResources.cpp:41
 #, kde-format
@@ -4119,7 +4119,7 @@ msgstr "在任何設定好的軟體來源內都找不到印表機驅動程式"
 #: PkSession/PkInstallProvideFiles.cpp:41
 #, kde-format
 msgid "Install Packages that Provides Files"
-msgstr "安裝提供這些檔案的套件"
+msgstr "安裝提供這些檔案的軟體包"
 
 #: PkSession/PkInstallProvideFiles.cpp:50
 #, kde-format
@@ -4152,23 +4152,23 @@ msgstr "安裝檔案失敗"
 #: PkSession/PkInstallProvideFiles.cpp:94
 #, kde-format
 msgid "The %1 package already provides this file"
-msgstr "%1 套件已提供了這個檔案"
+msgstr "%1 軟體包已提供了這個檔案"
 
 #: PkSession/PkInstallProvideFiles.cpp:100
 #, kde-format
 msgid "Failed to find package"
-msgstr "尋找套件失敗"
+msgstr "尋找軟體包失敗"
 
 #: PkSession/PkInstallProvideFiles.cpp:101
 #, kde-format
 msgid "The file could not be found in any packages"
 msgid_plural "The files could not be found in any packages"
-msgstr[0] "在任何套件內都找不到這些檔案"
+msgstr[0] "在任何軟體包內都找不到這些檔案"
 
 #: PkSession/PkIsInstalled.cpp:40
 #, kde-format
 msgid "Querying if a Package is Installed"
-msgstr "查詢是否已安裝此套件"
+msgstr "查詢是否已安裝此軟體包"
 
 #: PkSession/PkIsInstalled.cpp:61
 #, kde-format
@@ -4183,7 +4183,7 @@ msgstr "發生不明的錯誤"
 #: PkSession/PkRemovePackageByFiles.cpp:42
 #, kde-format
 msgid "Remove Packages that Provides Files"
-msgstr "移除套件所提供的檔案"
+msgstr "移除軟體包所提供的檔案"
 
 #: PkSession/PkRemovePackageByFiles.cpp:68
 #, kde-format
@@ -4195,7 +4195,7 @@ msgstr[0] "您想要移除下列的應用程式嗎？"
 #, kde-format
 msgid "Do you want to search for a package providing this file?"
 msgid_plural "Do you want to search for a package providing these files?"
-msgstr[0] "您現在想要搜尋提供這些檔案的套件嗎？"
+msgstr[0] "您現在想要搜尋提供這些檔案的軟體包嗎？"
 
 #: PkSession/PkRemovePackageByFiles.cpp:83
 #, kde-format
@@ -4230,28 +4230,28 @@ msgstr "找不到應用程式"
 #, kde-format
 msgid "The file could not be found in any installed package"
 msgid_plural "The files could not be found in any installed package"
-msgstr[0] "在任何已安裝的套件內都找不到這些檔案"
+msgstr[0] "在任何已安裝的軟體包內都找不到這些檔案"
 
 #: PkSession/PkSearchFile.cpp:42
 #, kde-format
 msgid "Search Packages that Provides Files"
-msgstr "搜尋提供這些檔案的套件"
+msgstr "搜尋提供這些檔案的軟體包"
 
 #: PkSession/PkSearchFile.cpp:81
 #, kde-format
 msgid "The file name could not be found in any software source"
-msgstr "在任何軟體來源內都找不到這個套件名稱"
+msgstr "在任何軟體來源內都找不到這個軟體包名稱"
 
 #: PkSession/ReviewChanges.cpp:51
 #, kde-format
 msgid "The following package was found"
 msgid_plural "The following packages were found"
-msgstr[0] "找到下列套件"
+msgstr[0] "找到下列軟體包"
 
 #: PkSession/SessionTask.cpp:371
 #, kde-format
 msgid "There are no packages to Install or Remove"
-msgstr "沒有套件要安裝或移除"
+msgstr "沒有軟體包要安裝或移除"
 
 #: PkSession/SessionTask.cpp:372
 #, kde-format
@@ -4266,7 +4266,7 @@ msgstr "找不到 "
 #: PkSession/SessionTask.cpp:402 PkSession/SessionTask.cpp:411
 #, kde-format
 msgid "No packages were found that meet the request"
-msgstr "找不到符合請求的套件"
+msgstr "找不到符合請求的軟體包"
 
 #: PkSession/SessionTask.cpp:410
 #, kde-format

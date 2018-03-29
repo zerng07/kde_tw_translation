@@ -14,15 +14,15 @@ msgstr ""
 "Project-Id-Version: processui\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2018-02-06 03:29+0100\n"
-"PO-Revision-Date: 2017-02-09 10:46+0800\n"
-"Last-Translator: Jeff Huang <s8321414@gmail.com>\n"
+"PO-Revision-Date: 2018-03-29 13:55+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese <kde-i18n-doc@kde.org>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #: ksysguardprocesslist.cpp:202 ksysguardprocesslist.cpp:459
 #, kde-format
@@ -1898,7 +1898,8 @@ msgstr "QtWebKitWidgets 無法使用"
 msgid ""
 "KSysGuard library was compiled without QtWebKitWidgets, please contact your "
 "distribution."
-msgstr "KSysGuard 函式庫編譯時未使用 QtWebKitWidgets。請向您的系統套件商反映。"
+msgstr ""
+"KSysGuard 函式庫編譯時未使用 QtWebKitWidgets。請向您的散布版發行商反映。"
 
 #, fuzzy
 #~| msgid "Memory usage: %1<br />"

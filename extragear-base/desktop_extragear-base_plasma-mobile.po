@@ -4,39 +4,30 @@ msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2018-01-07 02:19+0000\n"
-"PO-Revision-Date: 2013-09-11 15:43+0800\n"
-"Last-Translator: Franklin Weng <franklin at goodhorse dot idv dot tw>\n"
+"PO-Revision-Date: 2018-03-29 14:07+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese Traditional <kde-tw@googlegroups.com>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Poedit 2.0.6\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: activeshellpackage/package/metadata.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Plasma device shell"
 msgctxt "Comment"
 msgid "Plasma Active shell"
-msgstr "Plasma 裝置 shell"
+msgstr "Plasma Active shell"
 
 #: activeshellpackage/package/metadata.desktop:27
-#, fuzzy
-#| msgctxt "Name|plasma containment"
-#| msgid "MobileDesktop"
 msgctxt "Name"
 msgid "Desktop"
-msgstr "行動桌面"
+msgstr "桌面"
 
 #: activetoolbox/metadata.desktop:2
-#, fuzzy
-#| msgctxt "GenericName"
-#| msgid "About Plasma Active"
 msgctxt "Name"
 msgid "Plasma Active Toolbox"
-msgstr "關於 Plasma Active"
+msgstr "Plasma Active 工具箱"
 
 #: applets/alarms/active-alarms.desktop:2
 #: applets/alarms/plasmoid/metadata.desktop:3
@@ -132,9 +123,8 @@ msgstr "檔案瀏覽器"
 
 #: applications/filebrowser/plasma-filebrowserpart.desktop:5
 msgctxt "Comment"
-msgid ""
-"Plasma package to load a particular mimetype directly in the file browser"
-msgstr "直接在檔案瀏覽器直接載入特別的 MIME 型態的 Plasma 套件"
+msgid "Plasma package to load a particular mimetype directly in the file browser"
+msgstr "直接在檔案瀏覽器直接載入特別的 MIME 型態的 Plasma 套件包"
 
 #: containments/activecontainment/metadata.desktop:2
 #, fuzzy
@@ -145,12 +135,9 @@ msgid "Active Containment"
 msgstr "Active 設定"
 
 #: containments/activepanel/metadata.desktop:3
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Mobile Fiber"
 msgctxt "Name"
 msgid "Mobile Panel"
-msgstr "行動裝置用的 Fiber 主題"
+msgstr "行動面板"
 
 #: containments/activepanel/metadata.desktop:25
 msgctxt "Comment"

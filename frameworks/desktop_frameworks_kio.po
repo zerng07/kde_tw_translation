@@ -20,14 +20,14 @@ msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2018-03-07 02:37+0000\n"
-"PO-Revision-Date: 2018-02-21 20:59+0800\n"
-"Last-Translator: Jeff Huang <s8321414@gmail.com>\n"
+"PO-Revision-Date: 2018-03-29 13:32+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese <kde-i18n-doc@kde.org>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Poedit 2.0.6\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: src/ioslaves/file/kauth/file.actions:2
@@ -587,7 +587,7 @@ msgstr "http://www.allmusic.com/search/all/\\\\{@}"
 #: src/urifilters/ikws/searchproviders/archpkg.desktop:3
 msgctxt "Name"
 msgid "Arch Linux Package Search"
-msgstr "Arch Linux 套件搜尋"
+msgstr "Arch Linux 軟體包搜尋"
 
 #: src/urifilters/ikws/searchproviders/archpkg.desktop:44
 msgctxt "Query"
@@ -773,7 +773,7 @@ msgstr "http://dict.leo.org/?lp=frde&search=\\\\{@}"
 #: src/urifilters/ikws/searchproviders/deb.desktop:3
 msgctxt "Name"
 msgid "Debian Package Search"
-msgstr "Debian 套件搜尋"
+msgstr "Debian 軟體包搜尋"
 
 #: src/urifilters/ikws/searchproviders/deb.desktop:91
 msgctxt "Query"

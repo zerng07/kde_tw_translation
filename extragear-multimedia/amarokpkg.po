@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: amarokpkg.pot\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2018-03-08 03:24+0100\n"
-"PO-Revision-Date: 2010-12-07 16:23+0800\n"
+"PO-Revision-Date: 2018-03-29 13:28+0800\n"
 "Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese (traditional) <zh-l10n@linux.org.tw>\n"
 "Language: zh_TW\n"
@@ -16,6 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -75,10 +76,9 @@ msgid "Upgrade the applet at <path>"
 msgstr "更新在 <path> 的小程式"
 
 #: amarokpkg.cpp:114
-#, fuzzy, kde-format
-#| msgid "List installed applets"
+#, kde-format
 msgid "Most installed applets"
-msgstr "列出已安裝的小程式"
+msgstr "最多人安裝的小程式"
 
 #: amarokpkg.cpp:116
 #, kde-format
@@ -91,7 +91,7 @@ msgstr "移除名為 <name> 的小程式"
 msgid ""
 "Absolute path to the package root. If not supplied, then the standard data "
 "directories for this KDE session will be searched instead."
-msgstr "套件根目錄的絕對路徑。若未提供，則會搜尋 KDE 標準的資料目錄。"
+msgstr "軟體包根目錄的絕對路徑。若未提供，則會搜尋 KDE 標準的資料目錄。"
 
 #: amarokpkg.cpp:176
 #, kde-format

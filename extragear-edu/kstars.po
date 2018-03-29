@@ -14,14 +14,14 @@ msgstr ""
 "Project-Id-Version: kstars\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2018-03-28 03:21+0200\n"
-"PO-Revision-Date: 2017-11-11 21:01+0800\n"
-"Last-Translator: Franklin Weng <franklin@goodhorse.idv.tw>\n"
+"PO-Revision-Date: 2018-03-29 13:29+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@linux.org.tw>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Poedit 2.0.6\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #, kde-format
@@ -18271,7 +18271,7 @@ msgstr "INDI 伺服器終止連接埠"
 msgid ""
 "Driver %1 was not found on the system. Please make sure the package that "
 "provides the '%1' binary is installed."
-msgstr "系統上找不到驅動程式 %1。請確認提供執行檔 %1 的套件是否已安裝。"
+msgstr "系統上找不到驅動程式 %1。請確認提供執行檔 %1 的軟體包是否已安裝。"
 
 #: indi/servermanager.cpp:312
 #, kde-format
@@ -84424,7 +84424,7 @@ msgstr "配備設定 - 配備型態與參數"
 msgid ""
 "Unable to find INDI server. Please make sure the package that provides the "
 "'indiserver' binary is installed."
-msgstr "找不到 INDI 伺服器。請確定此套件提供的 'indiserver' 執行檔已安裝。"
+msgstr "找不到 INDI 伺服器。請確定此軟體包提供的 'indiserver' 執行檔已安裝。"
 
 #: kstarsactions.cpp:1019
 #, kde-format

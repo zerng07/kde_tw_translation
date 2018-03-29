@@ -9,15 +9,15 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2018-02-19 03:21+0100\n"
-"PO-Revision-Date: 2018-03-24 18:43+0800\n"
-"Last-Translator: pan93412 <pan93412@gmail.com>\n"
+"PO-Revision-Date: 2018-03-29 14:00+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@linux.org.tw>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -42,7 +42,7 @@ msgstr "Marco Martin"
 #: kcm.cpp:111
 #, kde-format
 msgid "Download New Look And Feel Packages"
-msgstr "下載新的外觀與感覺套件"
+msgstr "下載新的外觀與感覺套件包"
 
 #: kcm.cpp:549
 #, kde-format
@@ -63,7 +63,7 @@ msgstr "外觀與感覺工具"
 #: lnftool.cpp:42
 #, kde-format
 msgid "Command line tool to apply look and feel packages."
-msgstr "指令列工具以套用外觀與感覺套件。"
+msgstr "指令列工具以套用外觀與感覺套件包。"
 
 #: lnftool.cpp:42
 #, kde-format
@@ -78,12 +78,12 @@ msgstr "維護者"
 #: lnftool.cpp:52
 #, kde-format
 msgid "List available Look and feel packages"
-msgstr "列出支援的外觀與感覺套件"
+msgstr "列出支援的外觀與感覺套件包"
 
 #: lnftool.cpp:54
 #, kde-format
 msgid "Apply a look and feel package"
-msgstr "套用一個新的外觀與感覺套件"
+msgstr "套用一個新的外觀與感覺套件包"
 
 #: lnftool.cpp:54
 #, kde-format
@@ -109,8 +109,8 @@ msgid ""
 "scheme, mouse cursor, window and desktop switcher, splash screen, lock "
 "screen etc.)"
 msgstr ""
-"為您的工作空間選擇一個整體的外觀與感覺主題（包括 Plasma 主題、色彩機制、滑鼠"
-"游標、視窗與桌面切換器、啟動畫面、鎖定畫面等等）"
+"為您的工作空間選擇一個整體的外觀與感覺主題（包括 Plasma 主題、色彩機制、滑"
+"鼠游標、視窗與桌面切換器、啟動畫面、鎖定畫面等等）"
 
 #: package/contents/ui/main.qml:162
 #, kde-format
@@ -122,7 +122,8 @@ msgstr "顯示預覽"
 msgid ""
 "Warning: your Plasma Desktop layout will be lost and reset to the default "
 "layout provided by the selected theme."
-msgstr "警告：您的 Plasma 桌面佈局將會遺失並重置為由選定的主題所提供的預設佈局"
+msgstr ""
+"警告：您的 Plasma 桌面佈局將會遺失並重置為由選定的主題所提供的預設佈局"
 
 #: package/contents/ui/main.qml:199
 #, kde-format

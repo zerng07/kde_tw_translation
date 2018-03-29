@@ -17,14 +17,14 @@ msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2018-03-19 03:31+0100\n"
-"PO-Revision-Date: 2018-03-25 11:59+0800\n"
-"Last-Translator: pan93412 <pan93412@gmail.com>\n"
+"PO-Revision-Date: 2018-03-29 13:59+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@linux.org.tw>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Poedit 2.0.6\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #, kde-format
@@ -1558,7 +1558,7 @@ msgid ""
 "Contact your distribution about this."
 msgstr ""
 "視窗切換器安裝不完整，找不到某些資源。\n"
-"請聯繫您的套件商。"
+"請聯繫您的散布版發行商。"
 
 #: useractions.cpp:204
 #, kde-format

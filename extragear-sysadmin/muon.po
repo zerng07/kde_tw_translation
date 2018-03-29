@@ -9,15 +9,15 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2018-03-15 03:18+0100\n"
-"PO-Revision-Date: 2017-07-23 17:45+0800\n"
-"Last-Translator: Jeff Huang <s8321414@gmail.com>\n"
+"PO-Revision-Date: 2018-03-29 13:49+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese <kde-i18n-doc@kde.org>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -63,7 +63,7 @@ msgstr "是否要確認額外的變更。"
 #: muonrc.cpp:18 src/config/muon.kcfg:28
 #, kde-format
 msgid "Show foreign architecture packages also available natively."
-msgstr "顯示其他架構原生可用的的套件。"
+msgstr "顯示其他架構原生可用的的軟體包。"
 
 #. i18n: ectx: label, entry (ManagerListColumns), group (muon)
 #: muonrc.cpp:21 src/config/muon.kcfg:32
@@ -80,32 +80,32 @@ msgstr "在軟體包變更檢視清單中的欄位狀態。"
 #: src/config/GeneralSettingsPage.cpp:51
 #, kde-format
 msgid "Ask to confirm changes that affect other packages"
-msgstr "詢問確認會影響其它套件的變更"
+msgstr "詢問確認會影響其它軟體包的變更"
 
 #: src/config/GeneralSettingsPage.cpp:52
 #, kde-format
 msgid "Show foreign-architecture packages that are available natively"
-msgstr "顯示其他架構原生可用的的套件"
+msgstr "顯示其他架構原生可用的的軟體包"
 
 #: src/config/GeneralSettingsPage.cpp:53
 #, kde-format
 msgid "Treat recommended packages as dependencies"
-msgstr "將推薦安裝套件視為相依"
+msgstr "將推薦安裝軟體包視為相依"
 
 #: src/config/GeneralSettingsPage.cpp:54
 #, kde-format
 msgid "Treat suggested packages as dependencies"
-msgstr "將建議安裝套件視為相依"
+msgstr "將建議安裝軟體包視為相依"
 
 #: src/config/GeneralSettingsPage.cpp:55
 #, kde-format
 msgid "Allow the installation of untrusted packages"
-msgstr "允許安裝未受信任的套件"
+msgstr "允許安裝未受信任的軟體包"
 
 #: src/config/GeneralSettingsPage.cpp:66
 #, kde-format
 msgid "Delete obsolete cached packages every:"
-msgstr "多久刪除已廢棄的快取套件一次："
+msgstr "多久刪除已廢棄的快取軟體包一次："
 
 #: src/config/GeneralSettingsPage.cpp:84
 #, kde-format
@@ -172,31 +172,31 @@ msgstr "最新版本的相依性"
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Dependants (Reverse Dependencies)"
-msgstr "被依賴套件"
+msgstr "被依賴軟體包"
 
 #: src/DetailsTabs/DependsTab.cpp:43
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Virtual Packages Provided"
-msgstr "已提供的虛擬套件"
+msgstr "已提供的虛擬軟體包"
 
 #: src/DetailsTabs/DependsTab.cpp:71 src/DetailsTabs/DependsTab.cpp:78
 #, kde-format
 msgctxt "@label"
 msgid "This package does not have any dependencies"
-msgstr "此套件沒有任何相依套件"
+msgstr "此軟體包沒有任何相依軟體包"
 
 #: src/DetailsTabs/DependsTab.cpp:85
 #, kde-format
 msgctxt "@label"
 msgid "This package has no dependents. (Nothing depends on it.)"
-msgstr "此套件未被任何套件依賴。"
+msgstr "此軟體包未被任何軟體包依賴。"
 
 #: src/DetailsTabs/DependsTab.cpp:92
 #, kde-format
 msgctxt "@label"
 msgid "This package does not provide any virtual packages"
-msgstr "此套件沒有提供任何虛擬套件"
+msgstr "此軟體包沒有提供任何虛擬軟體包"
 
 #: src/DetailsTabs/InstalledFilesTab.cpp:35
 #, kde-format
@@ -288,7 +288,7 @@ msgstr "類別："
 #, kde-format
 msgctxt "@label The parent package that this package comes from"
 msgid "Source Package:"
-msgstr "源碼套件："
+msgstr "源碼軟體包："
 
 #: src/DetailsTabs/TechnicalDetailsTab.cpp:86
 #, kde-format
@@ -373,7 +373,7 @@ msgstr "完成"
 #, kde-format
 msgctxt "@title:column"
 msgid "Package"
-msgstr "套件"
+msgstr "軟體包"
 
 #: src/DownloadModel/DownloadModel.cpp:62
 #, kde-format
@@ -434,12 +434,12 @@ msgstr "依架構"
 #: src/main.cpp:36
 #, kde-format
 msgid "Muon Package Manager"
-msgstr "Muon 套件管理員"
+msgstr "Muon 軟體包管理員"
 
 #: src/main.cpp:36
 #, kde-format
 msgid "A package manager"
-msgstr "套件管理員"
+msgstr "軟體包管理員"
 
 #: src/main.cpp:37
 #, kde-format
@@ -479,7 +479,7 @@ msgstr "完整更新"
 #, kde-format
 msgctxt "@action Marks packages no longer needed for removal"
 msgid "Remove Unnecessary Packages"
-msgstr "移除不需要的套件"
+msgstr "移除不需要的軟體包"
 
 #: src/MainWindow.cpp:197
 #, kde-format
@@ -507,8 +507,8 @@ msgid ""
 "be installed or removed. You may wish to try a full upgrade by clicking the "
 "<interface>Full Upgrade</interface> button."
 msgstr ""
-"無法標記更新。可用的更新需要安裝新套件或移除套件。您可能可以試著改用「完整更"
-"新」。"
+"無法標記更新。可用的更新需要安裝新軟體包或移除軟體包。您可能可以試著改用「完"
+"整更新」。"
 
 #: src/MainWindow.cpp:238 src/MainWindow.cpp:253
 #, kde-format
@@ -552,7 +552,7 @@ msgstr "<h2>要標記額外的變更嗎？</h2>"
 #, kde-format
 msgid "This action requires a change to another package:"
 msgid_plural "This action requires changes to other packages:"
-msgstr[0] "此動作需要變更其它套件："
+msgstr[0] "此動作需要變更其它軟體包："
 
 #: src/muonapt/HistoryView/HistoryView.cpp:49
 #, kde-kuit-format
@@ -1045,7 +1045,7 @@ msgctxt ""
 "@item:inlistbox Human-readable name for the Debian package section "
 "\"metapackages\""
 msgid "Meta Packages"
-msgstr "中繼套件"
+msgstr "中繼軟體包"
 
 #: src/muonapt/MuonStrings.cpp:161
 #, kde-format
@@ -1157,7 +1157,7 @@ msgstr "安裝錯誤"
 #, kde-format
 msgctxt "@info:status Package state"
 msgid "Orphaned"
-msgstr "孤兒套件"
+msgstr "孤兒軟體包"
 
 #: src/muonapt/MuonStrings.cpp:208
 #, kde-format
@@ -1169,7 +1169,7 @@ msgstr "已鎖定"
 #, kde-format
 msgctxt "@info:status Package state"
 msgid "New in repository"
-msgstr "套件庫中的新套件"
+msgstr "軟體包庫中的新軟體包"
 
 #: src/muonapt/MuonStrings.cpp:210
 #, kde-format
@@ -1205,7 +1205,7 @@ msgstr "版號覆寫"
 #, kde-format
 msgctxt "@info:status Package state"
 msgid "Required by other packages"
-msgstr "被其他的套件所需要"
+msgstr "被其他的軟體包所需要"
 
 #: src/muonapt/MuonStrings.cpp:216
 #, kde-format
@@ -1271,7 +1271,7 @@ msgstr "初始化錯誤"
 #, kde-format
 msgctxt "@title:window"
 msgid "Unable to Obtain Package System Lock"
-msgstr "無法鎖定套件系統"
+msgstr "無法鎖定軟體包系統"
 
 #: src/muonapt/MuonStrings.cpp:269
 #, kde-format
@@ -1301,7 +1301,7 @@ msgstr "未預期的錯誤"
 #, kde-format
 msgctxt "@title:window"
 msgid "Untrusted Packages"
-msgstr "未受信任的套件"
+msgstr "未受信任的軟體包"
 
 #: src/muonapt/MuonStrings.cpp:281
 #, kde-format
@@ -1315,7 +1315,7 @@ msgctxt "@label"
 msgid ""
 "The package system could not be initialized, your configuration may be "
 "broken."
-msgstr "套件系統無法被初始化，您的設定可能有問題。"
+msgstr "軟體包系統無法被初始化，您的設定可能有問題。"
 
 #: src/muonapt/MuonStrings.cpp:296
 #, kde-format
@@ -1325,8 +1325,8 @@ msgid ""
 "must close all other package managers before you will be able to install or "
 "remove any packages."
 msgstr ""
-"另一個應用程式似乎正在使用套件系統。您必須關閉另一個套件管理程式，才能繼續安"
-"裝或移除套件。"
+"另一個應用程式似乎正在使用軟體包系統。您必須關閉另一個軟體包管理程式，才能繼"
+"續安裝或移除軟體包。"
 
 #: src/muonapt/MuonStrings.cpp:303
 #, kde-format
@@ -1340,7 +1340,7 @@ msgstr "您在 %1 沒有足夠的磁碟空間來繼續此操作。"
 #, kde-format
 msgctxt "@label"
 msgid "Could not download packages"
-msgstr "無法下載套件"
+msgstr "無法下載軟體包"
 
 #: src/muonapt/MuonStrings.cpp:310
 #, kde-format
@@ -1372,7 +1372,8 @@ msgid ""
 msgid_plural ""
 "The following packages have not been verified by their authors. Downloading "
 "untrusted packages has been disallowed by your current configuration."
-msgstr[0] "以下的套件尚未經過作者檢查。您目前的設定不允許下載不受信任的套件。"
+msgstr[0] ""
+"以下的軟體包尚未經過作者檢查。您目前的設定不允許下載不受信任的軟體包。"
 
 #: src/muonapt/QAptActions.cpp:118
 #, kde-format
@@ -1402,25 +1403,25 @@ msgstr "儲存標記為..."
 #, kde-format
 msgctxt "@action"
 msgid "Save Package Download List..."
-msgstr "儲存套件下載清單..."
+msgstr "儲存軟體包下載清單..."
 
 #: src/muonapt/QAptActions.cpp:151
 #, kde-format
 msgctxt "@action"
 msgid "Download Packages From List..."
-msgstr "下載清單中的套件..."
+msgstr "下載清單中的軟體包..."
 
 #: src/muonapt/QAptActions.cpp:160
 #, kde-format
 msgctxt "@action"
 msgid "Add Downloaded Packages"
-msgstr "新增已下載套件"
+msgstr "新增已下載軟體包"
 
 #: src/muonapt/QAptActions.cpp:167
 #, kde-format
 msgctxt "@action"
 msgid "Save Installed Packages List..."
-msgstr "儲存已安裝套件清單..."
+msgstr "儲存已安裝軟體包清單..."
 
 #: src/muonapt/QAptActions.cpp:173
 #, kde-format
@@ -1465,7 +1466,7 @@ msgstr ""
 #, kde-format
 msgctxt "@title:window"
 msgid "Save Installed Packages List As"
-msgstr "將已安裝套件清單另存為"
+msgstr "將已安裝軟體包清單另存為"
 
 #: src/muonapt/QAptActions.cpp:275
 #, kde-format
@@ -1486,7 +1487,7 @@ msgid ""
 "Could not mark changes. Please make sure that the file is a markings file "
 "created by either the Muon Package Manager or the Synaptic Package Manager."
 msgstr ""
-"無法標記變更。請確定該檔案是由 Muon 或 Synaptic 套件管理員所產生的標記檔。"
+"無法標記變更。請確定該檔案是由 Muon 或 Synaptic 軟體包管理員所產生的標記檔。"
 
 #: src/muonapt/QAptActions.cpp:333
 #, kde-format
@@ -1499,7 +1500,7 @@ msgstr "請選擇一個目錄"
 msgctxt "@label"
 msgid "%1 package was successfully added to the cache"
 msgid_plural "%1 packages were successfully added to the cache"
-msgstr[0] "已成功將 %1 個套件加入快取"
+msgstr[0] "已成功將 %1 個軟體包加入快取"
 
 #: src/muonapt/QAptActions.cpp:362
 #, kde-format
@@ -1508,13 +1509,14 @@ msgid ""
 "No valid packages could be found in this directory. Please make sure the "
 "packages are compatible with your computer and are at the latest version."
 msgstr ""
-"在此目錄中找不到合法的套件。請確定此套件與您的電腦相容，而且是最新的版本。"
+"在此目錄中找不到合法的軟體包。請確定此軟體包與您的電腦相容，而且是最新的版"
+"本。"
 
 #: src/muonapt/QAptActions.cpp:366
 #, kde-format
 msgctxt "@title:window"
 msgid "Packages Could Not be Found"
-msgstr "有些套件找不到"
+msgstr "有些軟體包找不到"
 
 #: src/muonapt/QAptActions.cpp:398
 #, kde-format
@@ -1537,12 +1539,12 @@ msgstr "找不到 <command>software-properties-kde</command>"
 #, kde-format
 msgctxt "@title:window"
 msgid "Package History"
-msgstr "套件歷史紀錄"
+msgstr "軟體包歷史紀錄"
 
 #: src/PackageModel/PackageModel.cpp:88
 #, kde-format
 msgid "Package"
-msgstr "套件"
+msgstr "軟體包"
 
 #: src/PackageModel/PackageModel.cpp:90
 #, kde-format
@@ -1603,13 +1605,13 @@ msgstr "標記為徹底移除"
 #, kde-format
 msgctxt "@action:button"
 msgid "Lock Package at Current Version"
-msgstr "將套件鎖定在目前版本"
+msgstr "將軟體包鎖定在目前版本"
 
 #: src/PackageModel/PackageWidget.cpp:377
 #, kde-format
 msgctxt "@action:button"
 msgid "Unlock package"
-msgstr "解除鎖定套件"
+msgstr "解除鎖定軟體包"
 
 #: src/PackageModel/PackageWidget.cpp:381
 #, kde-format
@@ -1623,37 +1625,37 @@ msgctxt "@label"
 msgid ""
 "Removing this package may break your system. Are you sure you want to remove "
 "it?"
-msgstr "移除此套件可能會破壞您的系統。您確定要移除嗎？"
+msgstr "移除此軟體包可能會破壞您的系統。您確定要移除嗎？"
 
 #: src/PackageModel/PackageWidget.cpp:423
 #, kde-format
 msgctxt "@label"
 msgid "Warning - Removing Important Package"
-msgstr "警告 - 移除重要套件"
+msgstr "警告 - 移除重要軟體包"
 
 #: src/PackageModel/PackageWidget.cpp:609
 #, kde-format
 msgctxt "@title:window"
 msgid "Failed to Lock Package"
-msgstr "鎖定套件失敗"
+msgstr "鎖定軟體包失敗"
 
 #: src/PackageModel/PackageWidget.cpp:610
 #, kde-format
 msgctxt "@info Error text"
 msgid "The package %1 could not be locked. Failed to write lock file."
-msgstr "套件 %1 無法鎖定。寫入鎖定檔失敗。"
+msgstr "軟體包 %1 無法鎖定。寫入鎖定檔失敗。"
 
 #: src/PackageModel/PackageWidget.cpp:659
 #, kde-format
 msgctxt "@label"
 msgid "The \"%1\" package could not be marked for installation or upgrade:"
-msgstr "%1 套件無法被標記為安裝或更新："
+msgstr "%1 軟體包無法被標記為安裝或更新："
 
 #: src/PackageModel/PackageWidget.cpp:662
 #, kde-format
 msgctxt "@title:window"
 msgid "Unable to Mark Package"
-msgstr "無法標記套件"
+msgstr "無法標記軟體包"
 
 #: src/PackageModel/PackageWidget.cpp:679
 #, kde-format
@@ -1664,9 +1666,9 @@ msgid ""
 "never uploaded, has been obsoleted, or is not available from the currently-"
 "enabled repositories."
 msgstr ""
-"%1 套件沒有可用的版號，但是在資料庫中存在。\n"
-"\t通常這表示套件被標記為相依套件但並未上傳，或是此套件已廢棄，或是在目前的主"
-"目錄中並不存在。"
+"%1 軟體包沒有可用的版號，但是在資料庫中存在。\n"
+"\t通常這表示軟體包被標記為相依軟體包但並未上傳，或是此軟體包已廢棄，或是在目"
+"前的主目錄中並不存在。"
 
 #: src/PackageModel/PackageWidget.cpp:686
 #, kde-format
@@ -1684,7 +1686,7 @@ msgstr "%1：%2，但是無法安裝"
 #, kde-format
 msgctxt "@label Example: Depends: libqapt, but it is a virtual package"
 msgid "%1: %2, but it is a virtual package"
-msgstr "%1：%2，但是是個虛擬套件"
+msgstr "%1：%2，但是是個虛擬軟體包"
 
 #: src/ReviewWidget.cpp:32
 #, kde-format
@@ -1702,7 +1704,7 @@ msgstr "重新建立搜尋索引"
 msgctxt "@info:status"
 msgid "1 package available, "
 msgid_plural "%1 packages available, "
-msgstr[0] "%1 個套件可用，"
+msgstr[0] "%1 個軟體包可用，"
 
 #: src/StatusWidget.cpp:94
 #, kde-format
@@ -1827,7 +1829,7 @@ msgstr "<title>更新軟體來源中</title>"
 #, kde-kuit-format
 msgctxt "@info Status information, widget title"
 msgid "<title>Downloading Packages</title>"
-msgstr "<title>下載套件中</title>"
+msgstr "<title>下載軟體包中</title>"
 
 #: src/TransactionWidget.cpp:218
 #, kde-kuit-format

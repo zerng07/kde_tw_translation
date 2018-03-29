@@ -15,20 +15,20 @@ msgstr ""
 "Project-Id-Version: k3b\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2018-02-01 03:23+0100\n"
-"PO-Revision-Date: 2018-03-24 22:48+0800\n"
-"Last-Translator: pan93412 <pan93412@gmail.com>\n"
+"PO-Revision-Date: 2018-03-29 14:10+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@linux.org.tw>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Poedit 2.0.6\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "Tryneeds-Chinese, Jeff Huang"
+msgstr "Tryneeds-Chinese, Cheng-Chia Tseng, Jeff Huang"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -1955,7 +1955,7 @@ msgid ""
 "K3b uses vcdxrip from the vcdimager package to rip Video CDs. Please make "
 "sure it is installed."
 msgstr ""
-"K3b 使用 vcdimager 套件內的 vcdxrip 來擷取影像 CD。請確認它是否已安裝。"
+"K3b 使用 vcdimager 軟體包內的 vcdxrip 來擷取影像 CD。請確認它是否已安裝。"
 
 #: k3bdirview.cpp:235
 #, kde-format
@@ -2767,7 +2767,7 @@ msgstr "找不到執行檔 %1"
 #: k3bsystemproblemdialog.cpp:216
 #, kde-format
 msgid "Install the cdrtools package which contains cdrecord."
-msgstr "安裝含有 cdrecord 的 cdrtools 套件。"
+msgstr "安裝含有 cdrecord 的 cdrtools 軟體包。"
 
 #: k3bsystemproblemdialog.cpp:222 k3bsystemproblemdialog.cpp:329
 #: k3bsystemproblemdialog.cpp:336 k3bsystemproblemdialog.cpp:344
@@ -2836,7 +2836,7 @@ msgstr "K3b 使用 cdrdao 來寫入光碟。"
 #: k3bsystemproblemdialog.cpp:278
 #, kde-format
 msgid "Install the cdrdao package."
-msgstr "安裝 cdrdao 套件。"
+msgstr "安裝 cdrdao 軟體包。"
 
 #: k3bsystemproblemdialog.cpp:287
 #, kde-format
@@ -2857,7 +2857,7 @@ msgstr ""
 #: k3bsystemproblemdialog.cpp:301
 #, kde-format
 msgid "Consider to install the libburn and cdrskin packages."
-msgstr "考慮安裝 libburn 和 cdrskin 套件。"
+msgstr "考慮安裝 libburn 和 cdrskin 軟體包。"
 
 #: k3bsystemproblemdialog.cpp:311 k3bsystemproblemdialog.cpp:321
 #, kde-format
@@ -2871,7 +2871,7 @@ msgstr ""
 #: k3bsystemproblemdialog.cpp:324 k3bsystemproblemdialog.cpp:367
 #, kde-format
 msgid "Install the dvd+rw-tools package."
-msgstr "安裝 dvd+rw-tools 套件。"
+msgstr "安裝 dvd+rw-tools 軟體包。"
 
 #: k3bsystemproblemdialog.cpp:330
 #, kde-format
@@ -3092,7 +3092,7 @@ msgid ""
 "not include MP3 support for legal reasons."
 msgstr ""
 "K3b 無法載入或找不到 MP3 解碼器外掛程式。這意味著您將無法由 MP3 檔案建立音效 "
-"CD。由於法律上的考量，許多 Linux 發行版沒有納入 MP3 的支援。"
+"CD。由於法律上的考量，許多 Linux 散布版沒有納入 MP3 的支援。"
 
 #: k3bsystemproblemdialog.cpp:554
 #, kde-format
@@ -3103,7 +3103,7 @@ msgid ""
 "installation of MP3 support via an online update tool."
 msgstr ""
 "要啟用 MP3 支援，請安裝 MAD MP3 解碼函式庫與 K3b MAD MP3 解碼器外掛程式 (後者"
-"可能已經安裝好了，但是由於 libmad 尚未安裝所以無法運作)。某些發行版可以透過線"
+"可能已經安裝好了，但是由於 libmad 尚未安裝所以無法運作)。某些散布版可以透過線"
 "上更新工具來安裝 MP3 支援。"
 
 #: k3bsystemproblemdialog.cpp:569
@@ -3130,7 +3130,7 @@ msgid ""
 "are set. Normally the distribution setup tools take care of this."
 msgstr ""
 "要適當地設置地區語言字集 (locale charset) ，請確定 LC_* 環境變數已設置。一般"
-"來說有發行版設置工具來負責。"
+"來說有散布版設置工具來負責。"
 
 #: k3bsystemproblemdialog.cpp:587
 #, kde-format
@@ -3636,7 +3636,7 @@ msgstr "Roberto De Leo"
 #: main.cpp:65
 #, kde-format
 msgid "For the very cool eMovix package and his accommodating work."
-msgstr "感謝他這套酷呆的 eMoviex 套件，和他在一起工作很輕鬆愉快。"
+msgstr "感謝他這套酷呆的 eMoviex 軟體，和他在一起工作很輕鬆愉快。"
 
 #: main.cpp:67
 #, kde-format
@@ -4819,7 +4819,7 @@ msgid ""
 "contact your distribution."
 msgstr ""
 "<br/>權限小助手可以為您調整那些並未在建構軟體時啟用的 地方。<br/>請以啟用權限"
-"助手的方式下重建軟體包，或是聯絡您的散佈版的開發者。"
+"助手的方式下重建軟體包，或是聯絡您的散布版的開發者。"
 
 #: option/k3bdevicewidget.cpp:258 projects/k3bdataurladdingdialog.cpp:770
 #: projects/k3bdataurladdingdialog.cpp:786
@@ -9031,7 +9031,7 @@ msgid ""
 "repository or download it from http://www.vcdimager.org"
 msgstr ""
 "找不到 VcdImager 可執行檔。要建立影像 CD ，您必須安裝版本 >= 0.7.12 的 "
-"VcdImager 。您可以在您的發行版光碟上找到它或是從 http://www.vcdimager.org 下"
+"VcdImager 。您可以在您的散布版光碟上找到它或是從 http://www.vcdimager.org 下"
 "載它"
 
 #: projects/k3bvideodvdburndialog.cpp:47
@@ -9893,7 +9893,7 @@ msgstr "您必須安裝 VcdImager 版本 %1 以擷取影像光碟的內容。"
 msgid ""
 "You can find this on your distribution’s software repository or download it "
 "from http://www.vcdimager.org"
-msgstr "您可以從您的發行版套件庫找到或者從 http://www.vcdimager.org 下載"
+msgstr "您可以從您的散布版軟體庫找到或者從 http://www.vcdimager.org 下載"
 
 #: rip/k3bvideocdrip.cpp:108
 #, kde-format
@@ -9905,7 +9905,7 @@ msgstr "%1 可執行檔太老舊：需要版本 %2 或更高。"
 msgid ""
 "You can find this on your distribution disks or download it from http://www."
 "vcdimager.org"
-msgstr "您可以從您的發行版光碟找到或者從 http://www.vcdimager.org 下載"
+msgstr "您可以從您的散布版光碟找到或者從 http://www.vcdimager.org 下載"
 
 #: rip/k3bvideocdrip.cpp:116
 #, kde-format

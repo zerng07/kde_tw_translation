@@ -11,14 +11,14 @@ msgstr ""
 "Project-Id-Version: libakonadi\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2018-03-18 03:22+0100\n"
-"PO-Revision-Date: 2015-05-21 00:16+0800\n"
-"Last-Translator: Franklin\n"
+"PO-Revision-Date: 2018-03-29 13:00+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese Traditional <kde-i18n-doc@kde.org>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Poedit 2.0.6\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #, kde-format
@@ -1219,7 +1219,8 @@ msgid ""
 msgstr ""
 "您目前設定 Akonadi 使用 MySQL 伺服器 %1。\n"
 "請確定您有安裝 MySQL 伺服器，執行路徑有設定正確，以及您有足夠的權限讀取及執行"
-"此伺服器。通常伺服器的執行檔都叫做 mysqld，放置的位置則依套件不同而有所不同。"
+"此伺服器。通常伺服器的執行檔都叫做 mysqld，放置的位置則依散布版不同而有所不"
+"同。"
 
 #: widgets/selftestdialog.cpp:240
 #, kde-format

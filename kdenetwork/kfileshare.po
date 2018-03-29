@@ -12,14 +12,14 @@ msgstr ""
 "Project-Id-Version: kfileshare\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2016-11-19 20:16+0100\n"
-"PO-Revision-Date: 2016-11-14 20:52+0800\n"
-"Last-Translator: Jeff Huang <s8321414@gmail.com>\n"
+"PO-Revision-Date: 2018-03-29 13:18+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese <kde-i18n-doc@kde.org>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Poedit 2.0.6\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: samba/filepropertiesplugin/delegate.cpp:40
@@ -50,7 +50,7 @@ msgstr "分享(&S)"
 #: samba/filepropertiesplugin/sambausershareplugin.cpp:82
 #, kde-format
 msgid "The Samba package failed to install."
-msgstr "Samba 套件安裝失敗。"
+msgstr "Samba 軟體包安裝失敗。"
 
 #: samba/filepropertiesplugin/sambausershareplugin.cpp:92
 #, kde-format

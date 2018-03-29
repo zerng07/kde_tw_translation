@@ -7,15 +7,15 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2018-03-25 04:23+0200\n"
-"PO-Revision-Date: 2015-02-27 23:36+0800\n"
-"Last-Translator: Franklin Weng <franklin@goodhorse.idv.tw>\n"
+"PO-Revision-Date: 2018-03-29 13:07+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese Traditional <kde-tw@googlegroups.com>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -246,7 +246,7 @@ msgstr "Aurelien Jarno"
 #: kwave/main.cpp:96
 #, kde-format
 msgid "Debian packager"
-msgstr "Debian 套件維護者"
+msgstr "Debian 打包者"
 
 #: kwave/main.cpp:100
 #, kde-format
@@ -256,7 +256,7 @@ msgstr "Robert M. Stockmann"
 #: kwave/main.cpp:101
 #, kde-format
 msgid "Packaging for Mandrake / X86_64"
-msgstr "Mandrake / x86_64 套件維護"
+msgstr "Mandrake / x86_64 打包維護"
 
 #: kwave/main.cpp:109
 #, kde-format
@@ -6872,35 +6872,30 @@ msgstr "完成"
 msgid "one day "
 msgid_plural "%1 days "
 msgstr[0] ""
-msgstr[1] "%1 天"
 
 #: plugins/record/RecordDialog.cpp:1187
 #, kde-format
 msgid "one hour "
 msgid_plural "%1 hours "
 msgstr[0] ""
-msgstr[1] "%1 小時"
 
 #: plugins/record/RecordDialog.cpp:1189
 #, kde-format
 msgid "one minute "
 msgid_plural "%1 minutes "
 msgstr[0] ""
-msgstr[1] "%1 分鐘"
 
 #: plugins/record/RecordDialog.cpp:1192
 #, kde-format
 msgid "and %1 second"
 msgid_plural "and %1 seconds"
 msgstr[0] ""
-msgstr[1] ""
 
 #: plugins/record/RecordDialog.cpp:1193
 #, fuzzy, kde-format
 msgid "%1 second"
 msgid_plural "%1 seconds"
 msgstr[0] "1 秒鐘"
-msgstr[1] "%1 秒"
 
 #: plugins/record/RecordDialog.cpp:1197
 #, kde-format

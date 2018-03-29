@@ -9,14 +9,14 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2017-11-22 05:02+0100\n"
-"PO-Revision-Date: 2015-06-05 13:20+0800\n"
-"Last-Translator: Tsung-en Hsiao <joshua841025@gmail.com>\n"
+"PO-Revision-Date: 2018-03-29 13:19+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@linux.org.tw>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Poedit 2.0.6\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #, kde-format
@@ -406,7 +406,7 @@ msgctxt "Verbose user visible error string"
 msgid ""
 "The installed libraries are too old. Please try updating all Telepathy "
 "packages to a newer version"
-msgstr "安裝的函式庫太舊了。請更新所有 Telepathy 的套件"
+msgstr "安裝的函式庫太舊了。請更新所有 Telepathy 的軟體包"
 
 #: KTp/error-dictionary.cpp:129
 #, kde-format
@@ -1132,7 +1132,7 @@ msgid ""
 "It appears you do not have the IM Accounts control module installed. Please "
 "install kaccounts-integration package."
 msgstr ""
-"看起來您並沒有安裝即時訊息帳號控制模組。請安裝 kaccounts-interation 套件。"
+"看起來您並沒有安裝即時訊息帳號控制模組。請安裝 kaccounts-interation 軟體包。"
 
 #: KTp/Widgets/settings-kcm-dialog.cpp:41
 #, kde-format

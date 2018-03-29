@@ -16,14 +16,14 @@ msgstr ""
 "Project-Id-Version: drkonqi\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2018-03-01 03:36+0100\n"
-"PO-Revision-Date: 2018-03-24 18:07+0800\n"
-"Last-Translator: pan93412 <pan93412@gmail.com>\n"
+"PO-Revision-Date: 2018-03-29 13:56+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@linux.org.tw>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Poedit 2.0.6\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #, kde-format
@@ -74,7 +74,7 @@ msgid ""
 "packages.)"
 msgstr ""
 "為了讓錯誤報告能對我們有幫助，我們希望您提供關於此錯誤以及您的系統的資訊。"
-"（此外，您可能需要安裝一些除錯套件。）"
+"（此外，您可能需要安裝一些除錯軟體包。）"
 
 #: aboutbugreportingdialog.cpp:61
 #, kde-format
@@ -213,7 +213,7 @@ msgid ""
 "Once you get a useful backtrace (or if you do not want to install the "
 "missing debugging packages) you can continue."
 msgstr ""
-"當您取得回溯資料後，（或是您不打算安裝除錯套件的話），您可以繼續下一步。"
+"當您取得回溯資料後，（或是您不打算安裝除錯軟體包的話），您可以繼續下一步。"
 
 #: aboutbugreportingdialog.cpp:109
 #, kde-format
@@ -252,7 +252,8 @@ msgid ""
 "information and download debug packages."
 msgstr ""
 "如果此報告被評為不值得回報，但是您覺得小助手的判斷錯誤，您還是可以直接登入錯"
-"誤回報系統回報此錯誤。您也可以返回修改一些資訊，下載除錯套件以收集更多資訊。"
+"誤回報系統回報此錯誤。您也可以返回修改一些資訊，下載除錯軟體包以收集更多資"
+"訊。"
 
 #: aboutbugreportingdialog.cpp:125
 #, kde-format
@@ -381,8 +382,8 @@ msgid ""
 "You can also specify your distribution method (GNU/Linux distribution or "
 "packaging system) or if you compiled the KDE Platform from sources."
 msgstr ""
-"您也可以指定您的散布方式（GNU/Linux 套件或是其它系統），或是您的 KDE 平台是從"
-"源碼編譯而來。"
+"您也可以指定您的散布方式（GNU/Linux 散布版或是其它系統），或是您的 KDE 平台是"
+"從源碼編譯而來。"
 
 #: aboutbugreportingdialog.cpp:177
 #, kde-kuit-format
@@ -519,8 +520,8 @@ msgid ""
 "when you have installed the proper debug symbol packages and you want to "
 "obtain a better backtrace."
 msgstr ""
-"用此按鍵來重新載入此錯誤的資訊（回溯追蹤資料）。若您已安裝好除錯套件，您可以"
-"用此按鍵來取得更完整的回溯追蹤資料。"
+"用此按鍵來重新載入此錯誤的資訊（回溯追蹤資料）。若您已安裝好除錯軟體包，您可"
+"以用此按鍵來取得更完整的回溯追蹤資料。"
 
 #: backtracewidget.cpp:74
 #, kde-format
@@ -532,7 +533,7 @@ msgstr "安裝除錯符號(&I)"
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Use this button to install the missing debug symbols packages."
-msgstr "用此按鍵來安裝除錯套件。"
+msgstr "用此按鍵來安裝除錯軟體包。"
 
 #: backtracewidget.cpp:81
 #, kde-format
@@ -646,10 +647,10 @@ msgid ""
 "the needed packages (<link url='%2'>list of files</link>) and click the "
 "<interface>Reload</interface> button."
 msgstr ""
-"您可以點擊「<interface>安裝除錯符號</interface>」按鍵以自動安裝遺失的除錯套"
-"件。若此方法不管用，請閱讀 <link url='%1'>如何建立有用的錯誤報告</link>來看看"
-"如何取得有用的回溯追蹤資訊。在您安裝了一些需要的套件（<link url='%2'>需要的檔"
-"案清單</link>）之後，點擊「<interface>重新載入</interface>」按鍵。"
+"您可以點擊「<interface>安裝除錯符號</interface>」按鍵以自動安裝遺失的除錯軟體"
+"包。若此方法不管用，請閱讀 <link url='%1'>如何建立有用的錯誤報告</link>來看看"
+"如何取得有用的回溯追蹤資訊。在您安裝了一些需要的軟體包（<link url='%2'>需要的"
+"檔案清單</link>）之後，點擊「<interface>重新載入</interface>」按鍵。"
 
 #: backtracewidget.cpp:267
 #, kde-kuit-format
@@ -660,11 +661,11 @@ msgid ""
 "url='%2'>list of files</link>) and click the <interface>Reload</interface> "
 "button."
 msgstr ""
-"您可以點擊「<interface>安裝除錯符號</interface>」按鍵以自動安裝遺失的除錯套"
-"件。若此方法不管用，請閱讀 <link url='%1'>如何建立有用的錯誤報告</link>來看看"
-"如何取得有用的回溯追蹤資訊。請安裝一些需要的套件（<link url='%2'>需要的檔案清"
-"單</link>），然後點擊「<interface>重新載入錯誤資訊</interface>」按鍵來重新載"
-"入。"
+"您可以點擊「<interface>安裝除錯符號</interface>」按鍵以自動安裝遺失的除錯軟體"
+"包。若此方法不管用，請閱讀 <link url='%1'>如何建立有用的錯誤報告</link>來看看"
+"如何取得有用的回溯追蹤資訊。請安裝一些需要的軟體包（<link url='%2'>需要的檔案"
+"清單</link>），然後點擊「<interface>重新載入錯誤資訊</interface>」按鍵來重新"
+"載入。"
 
 #: backtracewidget.cpp:283
 #, kde-format
@@ -702,27 +703,27 @@ msgid ""
 "<strong>You need to first install the debugger application (%1) then click "
 "the <interface>Reload</interface> button.</strong>"
 msgstr ""
-"<strong>您需要先安裝除錯套件（%1），然後點擊「<interface>重新載入</"
+"<strong>您需要先安裝除錯軟體包（%1），然後點擊「<interface>重新載入</"
 "interface>」。</strong>"
 
 #: backtracewidget.cpp:358
 #, kde-format
 msgctxt "@title:window"
 msgid "Error during the installation of debug symbols"
-msgstr "安裝除錯符號套件時發生錯誤"
+msgstr "安裝除錯符號軟體包時發生錯誤"
 
 #: backtracewidget.cpp:390
 #, kde-format
 msgid ""
 "The packages containing debug information for the following application and "
 "libraries are missing:"
-msgstr "找不到包含以下應用程式與函式庫的除錯資訊的套件："
+msgstr "找不到包含以下應用程式與函式庫的除錯資訊的軟體包："
 
 #: backtracewidget.cpp:399
 #, kde-format
 msgctxt "messagebox title"
 msgid "Missing debug information packages"
-msgstr "遺失除錯資訊套件"
+msgstr "遺失除錯資訊軟體包"
 
 #: bugzillaintegration/bugzillalib.cpp:321
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:815
@@ -849,7 +850,7 @@ msgid ""
 "This crash information is not useful enough, do you want to try to improve "
 "it? You will need to install some debugging packages."
 msgstr ""
-"此錯誤資訊不夠詳細，您要試著再提供更詳細的資料嗎？您需要安裝一些除錯套件。"
+"此錯誤資訊不夠詳細，您要試著再提供更詳細的資料嗎？您需要安裝一些除錯軟體包。"
 
 #: bugzillaintegration/reportassistantpages_base.cpp:117
 #, kde-format
@@ -929,8 +930,8 @@ msgid ""
 "crash on the Crash Information page. You can get help with the Bug Reporting "
 "Guide by clicking on the <interface>Help</interface> button.</note>"
 msgstr ""
-"<note>您可以安裝一些除錯套件，並重新載入錯誤資訊頁面。您可以點擊「<interface>"
-"說明</interface>」來閱讀錯誤回報導覽。</note>"
+"<note>您可以安裝一些除錯軟體包，並重新載入錯誤資訊頁面。您可以點擊"
+"「<interface>說明</interface>」來閱讀錯誤回報導覽。</note>"
 
 #: bugzillaintegration/reportassistantpages_base.cpp:326
 #, kde-format
@@ -1237,7 +1238,7 @@ msgstr "Slackware"
 #, kde-format
 msgctxt "@label:listbox KDE distribution method"
 msgid "Ubuntu (and derivatives)"
-msgstr "Ubuntu（及其衍生套件）"
+msgstr "Ubuntu（及其衍生版）"
 
 #: bugzillaintegration/reportassistantpages_bugzilla.cpp:457
 #, kde-format
@@ -1900,7 +1901,7 @@ msgctxt "@info bug resolution"
 msgid ""
 "the bug is caused by a problem in an external application or library, or by "
 "a distribution or packaging issue"
-msgstr "此錯誤是由外部的應用程式或函式庫所引起，或是套件的包裝問題"
+msgstr "此錯誤是由外部的應用程式或函式庫所引起，或是軟體包的包裝問題"
 
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:750
 #, kde-format
@@ -2457,7 +2458,7 @@ msgstr ""
 #, kde-format
 msgctxt "@info:progress"
 msgid "Requesting installation of missing debug symbols packages..."
-msgstr "需要安裝除錯套件。"
+msgstr "需要安裝除錯軟體包。"
 
 #: debugpackageinstaller.cpp:64
 #, kde-format
@@ -2474,7 +2475,7 @@ msgstr "遺失除錯符號"
 #, kde-format
 msgctxt "@info"
 msgid "Could not find debug symbol packages for this application."
-msgstr "找不到此應用程式的除錯符號套件。"
+msgstr "找不到此應用程式的除錯符號軟體包。"
 
 #: debugpackageinstaller.cpp:111
 #, kde-format
@@ -2482,7 +2483,7 @@ msgctxt "@info"
 msgid ""
 "An error was encountered during the installation of the debug symbol "
 "packages."
-msgstr "安裝除錯符號套件時發生錯誤。"
+msgstr "安裝除錯符號軟體包時發生錯誤。"
 
 #: drkonqi.cpp:162
 #, kde-kuit-format

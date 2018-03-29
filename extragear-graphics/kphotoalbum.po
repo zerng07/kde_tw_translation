@@ -10,15 +10,15 @@ msgstr ""
 "Project-Id-Version: kphotoalbum\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2018-02-27 03:14+0100\n"
-"PO-Revision-Date: 2014-04-23 14:09+0800\n"
-"Last-Translator: Franklin Weng <franklin at goodhorse dot idv dot tw>\n"
+"PO-Revision-Date: 2018-03-29 13:12+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese Traditional <kde-tw@googlegroups.com>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -2795,14 +2795,15 @@ msgid ""
 "like kdelibs<i>-devel</i></p>"
 msgstr ""
 "<h1>若我缺少一項功能時，我該怎麼做？</h1> <p>若您自行編譯 KPhotoAlbum，請仔細"
-"檢視以下的區塊，以便得知要安裝哪些套件以補足有問題的功能。若您是從編譯好的套"
-"件安裝的，則請告訴此套件的提供者，包出來的套件有問題，並將以下區塊的資訊提供"
-"給他。</p> <p>此外，若是您並非自行編譯，而且有些功能也無法使用，請考慮以下做"
-"法（並不會很難）。您可以到 <a href=\"http://mail.kdab.net/mailman/listinfo/"
-"kphotoalbum\">KPhotoAlbum 郵件論壇</a>詢問要如何編譯 KPhotoAlbum。此外編譯步"
-"驟也可以在 <a href=\"http://www.kphotoalbum.org/index.php?page=compile"
-"\">KPhotoAlbum 首頁</a>中找到。若您從未編譯過 KDE 應用程式，請確定您有安裝開"
-"發套件，大部份的作業系統套件都將此開發套件取名為 kdelibs<i>-devel</i></p>"
+"檢視以下的區塊，以便得知要安裝哪些軟體包以補足有問題的功能。若您是從編譯好的"
+"軟體包安裝的，則請告訴此軟體包的提供者，包出來的軟體包有問題，並將以下區塊的"
+"資訊提供給他。</p> <p>此外，若是您並非自行編譯，而且有些功能也無法使用，請考"
+"慮以下做法（並不會很難）。您可以到 <a href=\"http://mail.kdab.net/mailman/"
+"listinfo/kphotoalbum\">KPhotoAlbum 郵件論壇</a>詢問要如何編譯 KPhotoAlbum。此"
+"外編譯步驟也可以在 <a href=\"http://www.kphotoalbum.org/index.php?"
+"page=compile\">KPhotoAlbum 首頁</a>中找到。若您從未編譯過 KDE 應用程式，請確"
+"定您有安裝開發軟體包，大部份的作業系統軟體包都將此開發軟體包取名為 "
+"kdelibs<i>-devel</i></p>"
 
 #: MainWindow/FeatureDialog.cpp:65
 #, kde-format
@@ -2837,7 +2838,7 @@ msgid ""
 msgstr ""
 "<h1><a name=\"database\">SQL 資料庫支援</a></h1> <p>KPhotoAlbum 允許您用特定"
 "數量的 EXIF 標籤來搜尋。此時 KPhotoALbum 需要一個 Sqlite 資料庫。此外需要安"
-"裝 Qt 的 sqlite 支援套件（qt-sql-sqlite）。</p>"
+"裝 Qt 的 sqlite 支援軟體包（qt-sql-sqlite）。</p>"
 
 #: MainWindow/FeatureDialog.cpp:83
 #, kde-format
@@ -2878,16 +2879,7 @@ msgid ""
 msgstr "<p>Phonon 可用於播放以下 MIME 型態的影片： <ul><li>%1</li></ul></p>"
 
 #: MainWindow/FeatureDialog.cpp:100
-#, fuzzy, kde-format
-#| msgid ""
-#| "<h1><a name=\"videoPreview\">Video thumbnail support</a></"
-#| "h1><p>KPhotoAlbum uses <tt>MPlayer</tt> to extract thumbnails from "
-#| "videos. These thumbnails are used to preview videos in the thumbnail "
-#| "viewer.</p><p>If at all possible you should install the <b>MPlayer2</b> "
-#| "package rather than the <b>MPlayer</b> package, as it has important "
-#| "improvements over the MPlayer package. MPlayer (in contrast to MPlayer2) "
-#| "often has problems extracting the length of videos and also often fails "
-#| "to extract the thumbnails used for cycling video thumbnails.</p>"
+#, kde-format
 msgid ""
 "<h1><a name=\"videoPreview\">Video thumbnail support</a></h1><p>KPhotoAlbum "
 "can use <tt>ffmpeg</tt> or <tt>MPlayer</tt> to extract thumbnails from "
@@ -2899,9 +2891,9 @@ msgid ""
 msgstr ""
 "<h1><a name=\"videoPreview\">影片縮圖支援</a></h1><p>KPhotoAlbum 用 "
 "<tt>MPlayer</tt> 來從影片中展開縮圖。這些縮圖用來在縮圖檢視器中預覽影片。</"
-"p><p>如果可以的話，請您安裝 <b>MPlayer2</b> 套件取代 <b>MPlayer</b>，因為它有"
-"一些重要的改進。MPlayer 通常在展開影片的長度時會發生一些問題，也常常在展開縮"
-"圖時失敗。</p>"
+"p><p>如果可以的話，請您安裝 <b>MPlayer2</b> 取代 <b>MPlayer</b>，因為它有一些"
+"重要的改進。MPlayer 通常在展開影片的長度時會發生一些問題，也常常在展開縮圖時"
+"失敗。</p>"
 
 #: MainWindow/FeatureDialog.cpp:108
 #, fuzzy, kde-format
@@ -3867,7 +3859,7 @@ msgid ""
 "lengths. Please install the ffmpeg or MPlayer package</p>"
 msgstr ""
 "<p>系統中找不到 MPlayer。</p> <p>KPhotoAlbum 需要 MPlayer 來展開影片的縮圖與"
-"長度。請安裝 MPlayer2 套件。</p>"
+"長度。請安裝 MPlayer2 軟體包。</p>"
 
 #: MainWindow/Window.cpp:1897
 #, kde-format
@@ -3883,7 +3875,8 @@ msgid ""
 "extracting thumbnails from videos.</p>"
 msgstr ""
 "<p>您的系統中安裝了 MPlayer，但不是第二版。MPlayer2 通常在系統上是另一個獨立"
-"的套件，如果可以的話請安裝 MPlayer2，因為它對展開影片的縮圖有較好的支援。</p>"
+"的軟體包，如果可以的話請安裝 MPlayer2，因為它對展開影片的縮圖有較好的支援。</"
+"p>"
 
 #: MainWindow/Window.cpp:1906
 #, kde-format

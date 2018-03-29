@@ -5,15 +5,15 @@ msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2018-03-27 01:39+0000\n"
-"PO-Revision-Date: 2016-11-02 09:43+0800\n"
-"Last-Translator: Jeff Huang <s8321414@gmail.com>\n"
+"PO-Revision-Date: 2018-03-29 13:27+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese <kde-i18n-doc@kde.org>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #: browsingbackends/eventsbackend/eventsbackend.desktop:4
 msgctxt "Name"
@@ -164,7 +164,7 @@ msgstr "用 Plasma 框架寫的媒體中心使用者介面"
 #: packages/shell/metadata.desktop:2
 msgctxt "Comment"
 msgid "PMC shell package"
-msgstr "PMC shell 套件"
+msgstr "PMC shell 軟體包"
 
 #: plasma-mediacenter.desktop.cmake:50
 msgctxt "Comment"

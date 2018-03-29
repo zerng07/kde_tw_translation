@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2016-11-19 20:16+0100\n"
-"PO-Revision-Date: 2013-09-14 14:54+0800\n"
-"Last-Translator: Franklin Weng <franklin at goodhorse dot idv dot tw>\n"
+"PO-Revision-Date: 2018-03-29 13:18+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese Traditional <kde-tw@googlegroups.com>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Poedit 2.0.6\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #, kde-format
@@ -114,12 +114,12 @@ msgid ""
 "package manager."
 msgstr ""
 "要連線到此即時訊息網路，您需要安裝額外的外掛程式。請先安裝 telepathy-haze 與 "
-"telepathy-gabble 套件。"
+"telepathy-gabble 軟體包。"
 
 #: add-account-assistant.cpp:172
 #, kde-format
 msgid "Missing Telepathy Connection Manager"
-msgstr "遺失了 Telepathy 連線管理員套件"
+msgstr "遺失了 Telepathy 連線管理員組件"
 
 #: add-account-assistant.cpp:208 add-account-assistant.cpp:257
 #: salut-enabler.cpp:243
@@ -297,7 +297,7 @@ msgid ""
 "It is likely your system is missing Telepathy Mission Control package.\n"
 "Please install it and restart this module."
 msgstr ""
-"因為一些原因，即時通訊系統無法初始化。您可能沒有安裝 Telepathy 任務控制套件。"
+"因為一些原因，即時通訊系統無法初始化。您可能沒有安裝 Telepathy 任務控制軟體。"
 "請安裝後再重新啟動此模組。"
 
 #: KCMTelepathyAccounts/abstract-account-parameters-widget.cpp:59

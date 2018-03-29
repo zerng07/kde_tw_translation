@@ -9,20 +9,20 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2018-03-19 03:21+0100\n"
-"PO-Revision-Date: 2018-02-21 21:33+0800\n"
-"Last-Translator: Jeff Huang <s8321414@gmail.com>\n"
+"PO-Revision-Date: 2018-03-29 13:35+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese <kde-i18n-doc@kde.org>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #: kpackage/package.cpp:57
 #, kde-format
 msgid "Desktop file that describes this package."
-msgstr "描述此套件的桌面檔。"
+msgstr "描述此軟體包的桌面檔。"
 
 #: kpackage/packageloader.cpp:57
 #, kde-format
@@ -127,12 +127,12 @@ msgstr "視窗與工作"
 #: kpackage/packageloader.cpp:369
 #, kde-format
 msgid "Could not load installer for package of type %1. Error reported was: %2"
-msgstr "無法載入套件型態 %1 的安裝器。錯誤：%2"
+msgstr "無法載入軟體包型態 %1 的安裝器。錯誤：%2"
 
 #: kpackage/private/packagejobthread.cpp:221
 #, kde-format
 msgid "Could not create package root directory: %1"
-msgstr "無法建立套件的根目錄：%1"
+msgstr "無法建立軟體包的根目錄：%1"
 
 #: kpackage/private/packagejobthread.cpp:230
 #, kde-format
@@ -142,12 +142,12 @@ msgstr "找不到檔案：%1"
 #: kpackage/private/packagejobthread.cpp:260
 #, kde-format
 msgid "Could not open package file, unsupported archive format: %1 %2"
-msgstr "無法開啟套件檔。不支援的歸檔格式：%1 %2"
+msgstr "無法開啟軟體包檔。不支援的歸檔格式：%1 %2"
 
 #: kpackage/private/packagejobthread.cpp:268
 #, kde-format
 msgid "Could not open package file: %1"
-msgstr "無法開啟套件檔：%1"
+msgstr "無法開啟軟體包檔：%1"
 
 #: kpackage/private/packagejobthread.cpp:303
 #, kde-format
@@ -157,23 +157,23 @@ msgstr "無法開啟後設資料檔案：%1"
 #: kpackage/private/packagejobthread.cpp:314
 #, kde-format
 msgid "No metadata file in package: %1"
-msgstr "套件中沒有中繼資料檔：%1"
+msgstr "軟體包中沒有中介資料檔：%1"
 
 #: kpackage/private/packagejobthread.cpp:324
 #, kde-format
 msgid "Package plugin name not specified: %1"
-msgstr "未指定套件外掛程式名稱：%1"
+msgstr "未指定軟體包外掛程式名稱：%1"
 
 #: kpackage/private/packagejobthread.cpp:334
 #, kde-format
 msgid "Package plugin name %1 contains invalid characters"
-msgstr "套件外掛程式名稱 %1 中有不合法的字元"
+msgstr "軟體包外掛程式名稱 %1 中有不合法的字元"
 
 #: kpackage/private/packagejobthread.cpp:350
 #, kde-format
 msgid ""
 "The new package has a different type from the old version already installed."
-msgstr "新套件與已安裝的舊版本套件有不同的類型。"
+msgstr "新軟體包與已安裝的舊版本軟體包有不同的類型。"
 
 #: kpackage/private/packagejobthread.cpp:355
 #, kde-format
@@ -199,12 +199,12 @@ msgstr "無法安裝相依關係：'%1' "
 #: kpackage/private/packagejobthread.cpp:390
 #, kde-format
 msgid "Could not move package to destination: %1"
-msgstr "無法將套件移動到目的地：%1"
+msgstr "無法將軟體包移動到目的地：%1"
 
 #: kpackage/private/packagejobthread.cpp:400
 #, kde-format
 msgid "Could not copy package to destination: %1"
-msgstr "無法將套件複製到目的地：%1"
+msgstr "無法將軟體包複製到目的地：%1"
 
 #: kpackage/private/packagejobthread.cpp:437
 #, kde-format
@@ -214,7 +214,7 @@ msgstr "%1 不存在"
 #: kpackage/private/packagejobthread.cpp:457
 #, kde-format
 msgid "Could not delete package from: %1"
-msgstr "無法從 %1 中刪除套件"
+msgstr "無法從 %1 中刪除軟體包"
 
 #: kpackage/private/packages.cpp:34 kpackage/private/packages.cpp:55
 #, kde-format
@@ -264,12 +264,12 @@ msgstr "主介面檔"
 #: kpackagetool/kpackagetool.cpp:145
 #, kde-format
 msgid "Failed to generate a Package hash for %1"
-msgstr "產生 %1 的套件雜湊失敗"
+msgstr "產生 %1 的軟體包雜湊失敗"
 
 #: kpackagetool/kpackagetool.cpp:148
 #, kde-format
 msgid "SHA1 hash for Package at %1: '%2'"
-msgstr "套件於 %1 的 SHA1 雜湊：'%2'"
+msgstr "軟體包於 %1 的 SHA1 雜湊：'%2'"
 
 #: kpackagetool/kpackagetool.cpp:187
 #, kde-format
@@ -298,12 +298,12 @@ msgstr "至少需要指定 install、remove、upgrade 或 list 其中一個動�
 #: kpackagetool/kpackagetool.cpp:385 kpackagetool/kpackagetool.cpp:470
 #, kde-format
 msgid "Error: Can't find plugin metadata: %1\n"
-msgstr "錯誤：找不到外掛程式中繼資料：%1\n"
+msgstr "錯誤：找不到外掛程式中介資料：%1\n"
 
 #: kpackagetool/kpackagetool.cpp:389
 #, kde-format
 msgid "Showing info for package: %1"
-msgstr "顯示套件資訊： %1"
+msgstr "顯示軟體包資訊： %1"
 
 #: kpackagetool/kpackagetool.cpp:390
 #, kde-format
@@ -338,7 +338,7 @@ msgctxt ""
 msgid ""
 "The packageroot and global options conflict with each other, please select "
 "only one."
-msgstr "套件根目錄與全域選項衝突。請選擇其中一項。"
+msgstr "軟體包根目錄與全域選項衝突。請選擇其中一項。"
 
 #: kpackagetool/kpackagetool.cpp:596
 #, kde-format
@@ -358,7 +358,7 @@ msgstr "路徑"
 #: kpackagetool/kpackagetool.cpp:641
 #, kde-format
 msgid "Package types that are installable with this tool:"
-msgstr "可用此工具安裝的套件型態："
+msgstr "可用此工具安裝的軟體包型態："
 
 #: kpackagetool/kpackagetool.cpp:642
 #, kde-format
@@ -428,7 +428,7 @@ msgstr "錯誤：安裝 %1 失敗：%2"
 #: kpackagetool/kpackagetool.cpp:774
 #, kde-format
 msgid "Upgrading package from file: %1"
-msgstr "從檔案更新套件： %1"
+msgstr "從檔案更新軟體包： %1"
 
 #: kpackagetool/kpackagetool.cpp:779
 #, kde-format
@@ -449,12 +449,12 @@ msgstr "KPackage 管理器"
 #, kde-format
 msgctxt "Do not translate <path>"
 msgid "Generate a SHA1 hash for the package at <path>"
-msgstr "產生套件的 SHA1 雜湊於 <path>"
+msgstr "產生軟體包的 SHA1 雜湊於 <path>"
 
 #: kpackagetool/options.h:13
 #, kde-format
 msgid "For install or remove, operates on packages installed for all users."
-msgstr "安裝與移除的動作是針對安裝於所有使用者的套件。"
+msgstr "安裝與移除的動作是針對安裝於所有使用者的軟體包。"
 
 #: kpackagetool/options.h:20
 #, kde-format
@@ -467,42 +467,42 @@ msgid ""
 "plugin, e.g. KPackage/Generic, Plasma/Theme, Plasma/Wallpaper, Plasma/"
 "Applet, etc."
 msgstr ""
-"套件類型、對應的套件外掛程式服務類型，像是 KPackage／通用、Plasma／主題、"
+"軟體包類型、對應的軟體包外掛程式服務類型，像是 KPackage／通用、Plasma／主題、"
 "Plasma／桌布、Plasma／小程式等等"
 
 #: kpackagetool/options.h:25
 #, kde-format
 msgctxt "Do not translate <path>"
 msgid "Install the package at <path>"
-msgstr "將套件安裝於 <path>"
+msgstr "將軟體包安裝於 <path>"
 
 #: kpackagetool/options.h:30
 #, kde-format
 msgctxt "Do not translate <name>"
 msgid "Show information of package <name>"
-msgstr "顯示套件 <name> 的資訊"
+msgstr "顯示軟體包 <name> 的資訊"
 
 #: kpackagetool/options.h:35
 #, kde-format
 msgctxt "Do not translate <path>"
 msgid "Upgrade the package at <path>"
-msgstr "將套件更新於 <path>"
+msgstr "將軟體包更新於 <path>"
 
 #: kpackagetool/options.h:40
 #, kde-format
 msgid "List installed packages"
-msgstr "列出已安裝的套件"
+msgstr "列出已安裝的軟體包"
 
 #: kpackagetool/options.h:44
 #, kde-format
 msgid "List all known package types that can be installed"
-msgstr "列出所有可被安裝的已知套件型態"
+msgstr "列出所有可被安裝的已知軟體包型態"
 
 #: kpackagetool/options.h:48
 #, kde-format
 msgctxt "Do not translate <name>"
 msgid "Remove the package named <name>"
-msgstr "移除名為 <name> 的套件"
+msgstr "移除名為 <name> 的軟體包"
 
 #: kpackagetool/options.h:53
 #, kde-format
@@ -510,8 +510,8 @@ msgid ""
 "Absolute path to the package root. If not supplied, then the standard data "
 "directories for this KDE session will be searched instead."
 msgstr ""
-"套件根目錄的絕對路徑。如果沒有提供的話，接著會搜尋此 KDE 作業階段的標準資料目"
-"錄。"
+"軟體包根目錄的絕對路徑。如果沒有提供的話，接著會搜尋此 KDE 作業階段的標準資料"
+"目錄。"
 
 #: kpackagetool/options.h:59
 #, kde-format
@@ -520,8 +520,8 @@ msgid ""
 "-t or -g. Recreates the index for the given type or package root. Operates "
 "in the user directory, unless -g is used"
 msgstr ""
-"重新建立外掛程式索引。要與 -t 或 -g 選項一起用。重新建立特定型態或是套件根目"
-"錄的索引。除非指定 -g 選項，不然會在使用者目錄中進行。"
+"重新建立外掛程式索引。要與 -t 或 -g 選項一起用。重新建立特定型態或是軟體包根"
+"目錄的索引。除非指定 -g 選項，不然會在使用者目錄中進行。"
 
 #: kpackagetool/options.h:65
 #, kde-format
@@ -530,20 +530,20 @@ msgid ""
 "t or -g. Recreates the index for the given type or package root. Operates in "
 "the user directory, unless -g is used"
 msgstr ""
-"移除外掛程式索引。要與 -t 或 -g 選項一起用。重新建立特定型態或是套件根目錄的"
-"索引。除非指定 -g 選項，不然會在使用者目錄中進行。"
+"移除外掛程式索引。要與 -t 或 -g 選項一起用。重新建立特定型態或是軟體包根目錄"
+"的索引。除非指定 -g 選項，不然會在使用者目錄中進行。"
 
 #: kpackagetool/options.h:71
 #, kde-format
 msgctxt "Do not translate <path>"
 msgid "Outputs the metadata for the package <path>"
-msgstr "產生套件的中繼資料於 <path>"
+msgstr "產生軟體包的中介資料於 <path>"
 
 #: kpackagetool/options.h:76
 #, kde-format
 msgctxt "Do not translate <path>"
 msgid "Outputs the metadata for the package into <path>"
-msgstr "產生套件的中繼資料於 <path>"
+msgstr "產生軟體包的中介資料於 <path>"
 
 #~ msgid "Generating %1/kpluginindex.json"
 #~ msgstr "正在產生 %1/kpluginindex.json"

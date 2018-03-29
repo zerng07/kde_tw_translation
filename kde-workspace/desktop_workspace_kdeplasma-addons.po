@@ -7,15 +7,15 @@ msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2018-03-27 01:39+0000\n"
-"PO-Revision-Date: 2018-03-25 11:27+0800\n"
-"Last-Translator: pan93412 <pan93412@gmail.com>\n"
+"PO-Revision-Date: 2018-03-29 13:57+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@linux.org.tw>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #: applets/activitypager/metadata.desktop:2
 msgctxt "Name"
@@ -81,8 +81,7 @@ msgstr "字典"
 
 #: applets/dict/package/metadata.desktop:62
 msgctxt "Comment"
-msgid ""
-"Look up the meaning of words and their translation into different languages"
+msgid "Look up the meaning of words and their translation into different languages"
 msgstr "查看單字的意義與不同語言的翻譯"
 
 #: applets/diskquota/package/metadata.desktop:2
@@ -293,7 +292,7 @@ msgstr "漫畫"
 #: dataengines/comic/plasma-packagestructure-comic.desktop:57
 msgctxt "Comment"
 msgid "Comic Package Structure"
-msgstr "漫畫套件結構"
+msgstr "漫畫包結構"
 
 #: dataengines/potd/apodprovider.desktop:9
 msgctxt "Name"
@@ -845,13 +844,8 @@ msgstr "使用即時縮圖的視窗切換器佈局"
 #~ msgstr "翻譯器"
 
 #~ msgctxt "Comment"
-#~ msgid ""
-#~ "Translates into any language using Google Translate. For list of "
-#~ "supported languages visit https://developers.google.com/translate/v2/"
-#~ "using_rest?hl=de#language-params"
-#~ msgstr ""
-#~ "使用 Google 翻譯來翻譯成任何語言。支援的語言清單請參考 https://developers."
-#~ "google.com/translate/v2/using_rest?hl=de#language-params"
+#~ msgid "Translates into any language using Google Translate. For list of supported languages visit https://developers.google.com/translate/v2/using_rest?hl=de#language-params"
+#~ msgstr "使用 Google 翻譯來翻譯成任何語言。支援的語言清單請參考 https://developers.google.com/translate/v2/using_rest?hl=de#language-params"
 
 #~ msgctxt "Name"
 #~ msgid "YouTube"
@@ -906,9 +900,7 @@ msgstr "使用即時縮圖的視窗切換器佈局"
 #~ msgstr "使用紀錄已啟動"
 
 #~ msgctxt "Comment"
-#~ msgid ""
-#~ "Shown only on first launch. Notifies that the usage logging is turned "
-#~ "'on'."
+#~ msgid "Shown only on first launch. Notifies that the usage logging is turned 'on'."
 #~ msgstr "只在第一次啟動時顯示。通知使用紀錄已開啟。"
 
 #~ msgctxt "Name"
@@ -932,9 +924,7 @@ msgstr "使用即時縮圖的視窗切換器佈局"
 #~ msgstr "控制音效播放器"
 
 #~ msgctxt "Comment"
-#~ msgid ""
-#~ "Allows to control MPRIS audio players (it is able to search through "
-#~ "Amarok's collection, too)"
+#~ msgid "Allows to control MPRIS audio players (it is able to search through Amarok's collection, too)"
 #~ msgstr "允許控制 MPRIS 音效播放器（也可以透過 Amarok 的收藏搜尋）"
 
 #~ msgctxt "Name"

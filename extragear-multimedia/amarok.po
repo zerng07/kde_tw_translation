@@ -11,14 +11,14 @@ msgstr ""
 "Project-Id-Version: amarok\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2018-03-26 03:16+0200\n"
-"PO-Revision-Date: 2014-04-23 15:20+0800\n"
-"Last-Translator: Franklin Weng <franklin at goodhorse dot idv dot tw>\n"
+"PO-Revision-Date: 2018-03-29 13:28+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese Traditional <kde-tw@googlegroups.com>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Poedit 2.0.6\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #, kde-format
@@ -4907,8 +4907,8 @@ msgid ""
 "Absolute path to the package root. If not supplied, then the standard data "
 "directories for this KDE session will be searched instead."
 msgstr ""
-"套件根目錄的絕對路徑。如果沒有提供的話，接著會搜尋此 KDE 作業階段的標準資料目"
-"錄。"
+"軟體包根目錄的絕對路徑。如果沒有提供的話，接著會搜尋此 KDE 作業階段的標準資料"
+"目錄。"
 
 #: context/tools/amarokpkg.cpp:176
 #, kde-format
@@ -16191,8 +16191,8 @@ msgid ""
 "transfers."
 msgstr ""
 "<b>注意：</b>沒有可用的編碼器。若您要轉換曲目編碼，請安裝有適當編碼器的 "
-"<i>ffmpeg</i> 或 <i>libav</i>（透過 <i>ffmpeg</i> 包裝）套件。不然您可以勾選"
-"「<i>記住選擇以便下次使用</i>」選項，在將來轉換時跳過此對話框。"
+"<i>ffmpeg</i> 或 <i>libav</i>（透過 <i>ffmpeg</i> 包裝）軟體包。不然您可以勾"
+"選「<i>記住選擇以便下次使用</i>」選項，在將來轉換時跳過此對話框。"
 
 #. i18n: ectx: property (text), widget (QCheckBox, rememberCheckBox)
 #: transcoding/TranscodingAssistantDialog.ui:275

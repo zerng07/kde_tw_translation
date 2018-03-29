@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: kubuntu-debug-installer\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2016-11-19 20:19+0100\n"
-"PO-Revision-Date: 2013-10-10 19:23+0000\n"
+"PO-Revision-Date: 2018-03-29 13:23+0800\n"
 "Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <zh_TW@li.org>\n"
 "Language: zh_TW\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2015-04-03 12:52+0000\n"
-"X-Generator: Launchpad (build 17413)\n"
+"X-Generator: Poedit 2.0.6\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #, kde-format
@@ -37,13 +37,13 @@ msgstr ""
 #, kde-format
 msgctxt "@info Error message"
 msgid "No file paths were provided, so no debug packages could be found."
-msgstr "沒有提供檔案路徑，因此找不到除錯套件。"
+msgstr "沒有提供檔案路徑，因此找不到除錯軟體包。"
 
 #: src/DebugInstaller.cpp:51 src/DebugInstaller.cpp:80
 #, kde-format
 msgctxt "@title:window"
 msgid "Couldn't find debug packages"
-msgstr "未能找到除錯套件"
+msgstr "未能找到除錯軟體包"
 
 #: src/DebugInstaller.cpp:77
 #, kde-format
@@ -52,7 +52,7 @@ msgid ""
 "No debug packages could be found for the files listed below.\n"
 "Do you want to continue anyway?"
 msgstr ""
-"無法為以下檔案找到除錯套件。\n"
+"無法為以下檔案找到除錯軟體包。\n"
 "是否仍然繼續？"
 
 #: src/DebugInstaller.cpp:93
@@ -61,13 +61,13 @@ msgctxt "@info"
 msgid ""
 "Do you want to install the following debug packages so that the necessary "
 "debug symbols become available?"
-msgstr "是否安裝以下除錯套件以提供所需除錯符號？"
+msgstr "是否安裝以下除錯軟體包以提供所需除錯符號？"
 
 #: src/DebugInstaller.cpp:95
 #, kde-format
 msgctxt "@title:window"
 msgid "Confirm package installation"
-msgstr "確認套件安裝"
+msgstr "確認軟體包安裝"
 
 #: src/DebugInstaller.cpp:98
 #, kde-format
@@ -79,23 +79,23 @@ msgstr "安裝"
 #, kde-format
 msgctxt "@info:progress"
 msgid "Looking for debug packages"
-msgstr "正尋找除錯套件"
+msgstr "正尋找除錯軟體包"
 
 #: src/main.cpp:36
 #, kde-format
 msgid "Debug package installer"
-msgstr "除錯套件安裝員"
+msgstr "除錯軟體包安裝員"
 
 #: src/main.cpp:38
 #, kde-format
 msgid "A debug package installer for Kubuntu"
-msgstr "Kubuntu 除錯套件安裝員"
+msgstr "Kubuntu 除錯軟體包安裝員"
 
 #: src/main.cpp:40
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "(C) 2010 Harald Sitter"
 msgid "(C) 2010-2014 Harald Sitter"
-msgstr "(C) 2010 Harald Sitter"
+msgstr "(C) 2010-2014 Harald Sitter"
 
 #: src/main.cpp:42
 #, kde-format
@@ -105,4 +105,4 @@ msgstr "Harald Sitter"
 #: src/main.cpp:48
 #, kde-format
 msgid "Files to find debug packages for"
-msgstr "用以尋找以下軟體除錯套件之檔案："
+msgstr "用以尋找以下軟體除錯軟體包之檔案："

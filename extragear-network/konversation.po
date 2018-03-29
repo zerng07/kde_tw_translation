@@ -15,15 +15,15 @@ msgstr ""
 "Project-Id-Version: konversation\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2018-03-21 03:27+0100\n"
-"PO-Revision-Date: 2016-10-31 08:16+0800\n"
-"Last-Translator: Jeff Huang <s8321414@gmail.com>\n"
+"PO-Revision-Date: 2018-03-29 13:42+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese <kde-i18n-doc@kde.org>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -2115,7 +2115,7 @@ msgstr "對分頁點擊中鍵將它關閉(&M)"
 #: src/config/theme_config.cpp:183
 #, kde-format
 msgid "Select Theme Package"
-msgstr "選擇主題套件"
+msgstr "選擇主題包"
 
 #: src/config/theme_config.cpp:184
 #, kde-format
@@ -2135,7 +2135,7 @@ msgstr "下載主題失敗"
 #: src/config/theme_config.cpp:239 src/config/theme_config.cpp:271
 #, kde-format
 msgid "Theme archive is invalid."
-msgstr "主題套件無效"
+msgstr "主題封存檔無效"
 
 #: src/config/theme_config.cpp:240 src/config/theme_config.cpp:272
 #, kde-format
@@ -6477,8 +6477,8 @@ msgid ""
 "Konversation with QCA present."
 msgstr ""
 "設定加密金鑰需要將 Qt 加密架構函式庫（Qt Cryptographic Architecture，QCA）編"
-"譯在 Konversation 內。請聯繫您的套件管理員，請求將 Konversation 加入 QCA 支"
-"援，或是您自己重新編譯 Konversation。"
+"譯在 Konversation 內。請聯繫您的軟體散布商，請求將 Konversation 軟體包加入 "
+"QCA 支援，或是您自己重新編譯 Konversation。"
 
 #: src/irc/outputfilter.cpp:1727
 #, kde-format

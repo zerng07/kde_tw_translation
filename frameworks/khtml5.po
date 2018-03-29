@@ -17,14 +17,14 @@ msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2016-12-11 02:37+0100\n"
-"PO-Revision-Date: 2016-06-28 17:24+0800\n"
-"Last-Translator: Jeff Huang <s8321414@gmail.com>\n"
+"PO-Revision-Date: 2018-03-29 13:32+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese <kde-i18n-doc@kde.org>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Poedit 2.0.6\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #, kde-format
@@ -661,7 +661,7 @@ msgstr "Base URL"
 #: java/kjavaappletviewer.cpp:165
 #, kde-format
 msgid "Archives"
-msgstr "套件包"
+msgstr "封存檔"
 
 #. i18n: ectx: Menu (edit)
 #: khtml.rc:4 khtml_browser.rc:11

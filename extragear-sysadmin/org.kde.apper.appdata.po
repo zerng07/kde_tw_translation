@@ -3,15 +3,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-09-20 07:47+0000\n"
-"PO-Revision-Date: 2015-02-15 10:18+0800\n"
-"Last-Translator: Franklin\n"
+"PO-Revision-Date: 2018-03-29 13:46+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese Traditional <kde-tw@googlegroups.com>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #. (itstool) path: component/name
 #: org.kde.apper.appdata.xml:6
@@ -21,14 +21,14 @@ msgstr "Apper"
 #. (itstool) path: component/summary
 #: org.kde.apper.appdata.xml:7
 msgid "KDE application and package management tool"
-msgstr "KDE 應用程式與軟體套件管理工具"
+msgstr "KDE 應用程式與軟體包管理工具"
 
 #. (itstool) path: description/p
 #: org.kde.apper.appdata.xml:9
 msgid ""
 "Apper is a graphical management tool for packages and applications provided "
 "by a Linux distribution."
-msgstr "Apper 是一套管理軟體與應用程式套件的圖形化工具。"
+msgstr "Apper 是一套管理 Linux 散布版中軟體包與應用程式的圖形化工具。"
 
 #. (itstool) path: description/p
 #: org.kde.apper.appdata.xml:13
@@ -45,7 +45,7 @@ msgstr "功能："
 #. (itstool) path: ul/li
 #: org.kde.apper.appdata.xml:19
 msgid "Distribution-agnostic management of software packages"
-msgstr "軟體套件管理，不管發行套件為何"
+msgstr "軟體包管理，不管散布版為何"
 
 #. (itstool) path: ul/li
 #: org.kde.apper.appdata.xml:20
@@ -70,7 +70,7 @@ msgstr "與 KDE Plasma 桌面高度整合"
 #. (itstool) path: screenshot/caption
 #: org.kde.apper.appdata.xml:31
 msgid "The main window showing a description of the selected package"
-msgstr "主視窗顯示選取的套件的描述"
+msgstr "主視窗顯示選取的軟體包的描述"
 
 #. (itstool) path: component/developer_name
 #: org.kde.apper.appdata.xml:38

@@ -11,15 +11,15 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2018-03-28 03:36+0200\n"
-"PO-Revision-Date: 2018-03-25 12:07+0800\n"
-"Last-Translator: pan93412 <pan93412@gmail.com>\n"
+"PO-Revision-Date: 2018-03-29 13:54+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@linux.org.tw>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #: categoriesxml.cpp:2 categoriesxml.cpp:108 categoriesxml.cpp:208
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:5
@@ -570,7 +570,7 @@ msgstr "無法增加來源 %1"
 #: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:231
 #, kde-format
 msgid "Flatpak repository URI (*.flatpakrepo)"
-msgstr "Flatpak 套件庫連結 (*.flatpakrepo)"
+msgstr "Flatpak 軟體庫連結 (*.flatpakrepo)"
 
 #: libdiscover/backends/KNSBackend/KNSBackend.cpp:119
 #, kde-format
@@ -645,32 +645,32 @@ msgstr "PackageID 不合法"
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:46
 #, kde-format
 msgid "Package not installed"
-msgstr "套件未安裝"
+msgstr "軟體包未安裝"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:48
 #, kde-format
 msgid "Package not found"
-msgstr "找不到套件"
+msgstr "找不到軟體包"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:50
 #, kde-format
 msgid "Package is already installed"
-msgstr "套件已安裝"
+msgstr "軟體包已安裝"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:52
 #, kde-format
 msgid "Package download failed"
-msgstr "套件下載失敗"
+msgstr "軟體包下載失敗"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:54
 #, kde-format
 msgid "Package group not found"
-msgstr "找不到套件群組"
+msgstr "找不到軟體包群組"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:56
 #, kde-format
 msgid "Package group list invalid"
-msgstr "套件群組清單不合法"
+msgstr "軟體包群組清單不合法"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:58
 #, kde-format
@@ -705,12 +705,12 @@ msgstr "沒有快取可使用"
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:70
 #, kde-format
 msgid "Cannot find repository"
-msgstr "找不到套件庫"
+msgstr "找不到軟體庫"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:72
 #, kde-format
 msgid "Cannot remove system package"
-msgstr "無法移除系統套件"
+msgstr "無法移除系統軟體包"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:74
 #, kde-format
@@ -745,12 +745,12 @@ msgstr "無法取得鎖定"
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:86
 #, kde-format
 msgid "No packages to update"
-msgstr "沒有套件需要更新"
+msgstr "沒有軟體包需要更新"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:88
 #, kde-format
 msgid "Cannot write repo config"
-msgstr "無法寫入套件庫設定"
+msgstr "無法寫入軟體庫設定"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:90
 #, kde-format
@@ -770,12 +770,12 @@ msgstr "找不到 GPG 簽章"
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:96
 #, kde-format
 msgid "Cannot install source package"
-msgstr "無法安裝來源套件"
+msgstr "無法安裝來源軟體包"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:98
 #, kde-format
 msgid "Repo configuration error"
-msgstr "套件庫設定錯誤"
+msgstr "軟體庫設定錯誤"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:100
 #, kde-format
@@ -790,32 +790,32 @@ msgstr "發現檔案衝突"
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:104
 #, kde-format
 msgid "Package conflict found"
-msgstr "發現套件衝突"
+msgstr "發現軟體包衝突"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:106
 #, kde-format
 msgid "Repo not available"
-msgstr "無法使用套件庫"
+msgstr "無法使用軟體庫"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:108
 #, kde-format
 msgid "Invalid package file"
-msgstr "無效的套件檔案"
+msgstr "無效的軟體包檔案"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:110
 #, kde-format
 msgid "Package install blocked"
-msgstr "套件安裝被封鎖"
+msgstr "軟體包安裝被封鎖"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:112
 #, kde-format
 msgid "Corrupt package found"
-msgstr "發現損毀的套件"
+msgstr "發現損毀的軟體包"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:114
 #, kde-format
 msgid "All packages already installed"
-msgstr "已安裝所有套件"
+msgstr "已安裝所有軟體包"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:116
 #, kde-format
@@ -830,7 +830,7 @@ msgstr "沒有其他可用的鏡像站"
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:120
 #, kde-format
 msgid "No distro upgrade data"
-msgstr "沒有發行版升級資料"
+msgstr "沒有散布版升級資料"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:122
 #, kde-format
@@ -860,12 +860,12 @@ msgstr "找不到更新"
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:132
 #, kde-format
 msgid "Cannot install from unsigned repo"
-msgstr "無法從未簽署的套件庫進行安裝"
+msgstr "無法從未簽署的軟體庫進行安裝"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:134
 #, kde-format
 msgid "Cannot update from unsigned repo"
-msgstr "無法從未簽署的套件庫進行更新"
+msgstr "無法從未簽署的軟體庫進行更新"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:136
 #, kde-format
@@ -890,22 +890,22 @@ msgstr "偵測到限制下載"
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:144
 #, kde-format
 msgid "Package failed to configure"
-msgstr "套件設定失敗"
+msgstr "軟體包設定失敗"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:146
 #, kde-format
 msgid "Package failed to build"
-msgstr "套件建立失敗"
+msgstr "軟體包建立失敗"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:148
 #, kde-format
 msgid "Package failed to install"
-msgstr "套件安裝失敗"
+msgstr "軟體包安裝失敗"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:150
 #, kde-format
 msgid "Package failed to remove"
-msgstr "套件移除失敗"
+msgstr "軟體包移除失敗"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:152
 #, kde-format
@@ -915,7 +915,7 @@ msgstr "由於程序正在執行，因而更新失敗"
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:154
 #, kde-format
 msgid "The package database changed"
-msgstr "套件資料庫已變更"
+msgstr "軟體包資料庫已變更"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:156
 #, kde-format
@@ -1009,7 +1009,7 @@ msgstr "為了安全起見，系統必須重新啟動。"
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:219
 #, kde-format
 msgid "Waiting..."
-msgstr "等待中,,,"
+msgstr "等待中..."
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:221
 #, kde-format
@@ -1119,22 +1119,22 @@ msgstr "工作階段目前進行中..."
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:275
 #, kde-format
 msgid "The transaction is currently removing packages..."
-msgstr "目前正在移除套件中..."
+msgstr "目前正在移除軟體包中..."
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:277
 #, kde-format
 msgid "The transaction is currently downloading packages..."
-msgstr "目前正在下載套件中..."
+msgstr "目前正在下載軟體包中..."
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:279
 #, kde-format
 msgid "The transactions is currently installing packages..."
-msgstr "目前正在安裝套件中..."
+msgstr "目前正在安裝軟體包中..."
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:281
 #, kde-format
 msgid "The transaction is currently updating packages..."
-msgstr "目前正在更新套件中..."
+msgstr "目前正在更新軟體包中..."
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:283
 #, kde-format
@@ -1146,7 +1146,7 @@ msgstr "目前正在清除中..."
 msgid ""
 "The transaction is currently resolving the dependencies of the packages it "
 "will install..."
-msgstr "目前正在解決套件相依性問題中..."
+msgstr "目前正在解決軟體包相依性問題中..."
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:288
 #, kde-format
@@ -1157,12 +1157,12 @@ msgstr "目前正在檢查簽章中..."
 #, kde-format
 msgid ""
 "The transaction is currently testing the commit of this set of packages..."
-msgstr "目前正在測試套件集的提交中..."
+msgstr "目前正在測試軟體包集的提交中..."
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:292
 #, kde-format
 msgid "The transaction is currently committing its set of packages..."
-msgstr "目前正在提交套件集中..."
+msgstr "目前正在提交軟體包集中..."
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:295
 #, kde-format
@@ -1192,7 +1192,7 @@ msgstr "目前正在複製檔案中..."
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:308
 #, kde-format
 msgid "Currently refreshing the repository cache..."
-msgstr "目前正在刷新套件庫快取中..."
+msgstr "目前正在刷新軟體庫快取中..."
 
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:313
 #, kde-format
@@ -1229,13 +1229,13 @@ msgid ""
 "Failed to update %1 packages\n"
 "%2"
 msgstr ""
-"下載 %1 套件失敗\n"
+"下載 %1 軟體包失敗\n"
 "%2"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:117
 #, kde-format
 msgid "Successfully updated %1 packages"
-msgstr "順利更新 %1 套件"
+msgstr "順利更新 %1 軟體包"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:198
 #, kde-format
@@ -1328,7 +1328,7 @@ msgstr "軟體庫 URL："
 #: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:177
 #, kde-format
 msgid "Packages to remove"
-msgstr "個套件要移除"
+msgstr "個軟體包要移除"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:177
 #, kde-format
@@ -1336,7 +1336,7 @@ msgid ""
 "The following packages will be removed by the update:\n"
 "<ul><li>%1</li></ul>"
 msgstr ""
-"下列套件將會因更新而移除：\n"
+"下列軟體包將會因更新而移除：\n"
 "<ui><li>%1</li></ul>"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:279
@@ -1362,7 +1362,7 @@ msgid ""
 "The package %1 and its vendor %2 require that you accept their license:\n"
 " %3"
 msgstr ""
-"套件 %1 的提供廠商 %2 要求您接受他們的授權條款：\n"
+"軟體包 %1 的提供廠商 %2 要求您接受他們的授權條款：\n"
 "%3"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:369
@@ -1394,7 +1394,7 @@ msgstr ""
 #: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:167
 #, kde-format
 msgid "Confirm package removal"
-msgstr "確定移除套件"
+msgstr "確定移除軟體包"
 
 #: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:167
 #, kde-format
@@ -1405,7 +1405,7 @@ msgid_plural ""
 "This action will also remove the following packages:\n"
 "%2"
 msgstr[0] ""
-"這動作也會移除下述的套件：\n"
+"這動作也會移除下述的軟體包：\n"
 "%2"
 
 #: libdiscover/DiscoverBackendsFactory.cpp:114

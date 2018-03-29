@@ -11,15 +11,15 @@ msgstr ""
 "Project-Id-Version: libk3b\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2017-11-11 03:14+0100\n"
-"PO-Revision-Date: 2018-03-24 22:55+0800\n"
-"Last-Translator: pan93412 <pan93412@gmail.com>\n"
+"PO-Revision-Date: 2018-03-29 14:11+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@linux.org.tw>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #: core/k3bcore.cpp:252
 #, kde-format
@@ -3311,7 +3311,7 @@ msgstr "要建立視訊 CD，您必須安裝版本 %1 的 VcdImager。"
 msgid ""
 "You can find this on your distribution disks or download it from http://www."
 "vcdimager.org"
-msgstr "您可以從您的發行版光碟找到或者從 http://www.vcdimager.org 下載"
+msgstr "您可以從您的散布版光碟找到或者從 http://www.vcdimager.org 下載"
 
 #: projects/videocd/k3bvcdjob.cpp:211
 #, kde-format
